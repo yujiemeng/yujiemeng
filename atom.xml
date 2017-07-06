@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yujiemeng.github.io/"/>
-  <updated>2017-07-06T09:08:21.000Z</updated>
+  <updated>2017-07-06T14:50:25.000Z</updated>
   <id>https://yujiemeng.github.io/</id>
   
   <author>
@@ -17,13 +17,13 @@
   
   <entry>
     <title>设计思考过程的5个步骤</title>
-    <link href="https://yujiemeng.github.io/2017/07/08/%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E7%9A%845%E4%B8%AA%E6%AD%A5%E9%AA%A4/"/>
-    <id>https://yujiemeng.github.io/2017/07/08/设计思考过程的5个步骤/</id>
-    <published>2017-07-08T06:06:48.000Z</published>
-    <updated>2017-07-06T09:08:21.000Z</updated>
+    <link href="https://yujiemeng.github.io/2017/07/01/%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E7%9A%845%E4%B8%AA%E6%AD%A5%E9%AA%A4/"/>
+    <id>https://yujiemeng.github.io/2017/07/01/设计思考过程的5个步骤/</id>
+    <published>2017-07-01T15:06:48.000Z</published>
+    <updated>2017-07-06T14:50:25.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://public-media.interaction-design.org/images/ux-daily/5808b55608af6.jpg" alt=""></p>
-<h1 id="设计思考过程的5个步骤"><a href="#设计思考过程的5个步骤" class="headerlink" title="设计思考过程的5个步骤"></a>设计思考过程的5个步骤</h1><p>作者 RIKKE DAM TEO SIANG  翻译：Myles Meng</p>
+<h1 id="设计思考过程的5个步骤"><a href="#设计思考过程的5个步骤" class="headerlink" title="设计思考过程的5个步骤"></a>设计思考过程的5个步骤</h1><p>作者: RIKKE DAM TEO SIANG  翻译：Myles Meng</p>
 <p>设计思维是一种设计方法论，基于解决方案提供一套解决问题的方法，尤其这些问题是不明确的或未知的。通过理解所涉及的用户需求，以人为本的方式重新构建问题；在头脑风暴会议中创造许多想法，并采取实际操作方式来解决复杂的问题；这在创作原型和测试环节中是非常有用的。了解设计思考过程的这五个阶段，将赋予任何人应用设计思维方法，以解决我们周围发生的复杂问题。这些问题可能是在我们公司，在我们的国家甚至我们所在的星球。</p>
 <p> Simon’s model consists of seven major stages, each with component stages and activities, and was largely influential in shaping some of the most widely used Design Thinking process models today. There are many variants of the Design Thinking process in use today, and while they may have different numbers of stages ranging from three to seven, they are all based upon the same principles featured in Simon’s 1969 model.</p>
 <p>1969年，诺贝尔奖获得者赫伯特·西蒙（Herbert Simon）在关于设计方法的“人造科学”中概述了设计思维过程的第一个正式模型。西蒙的模式包括七个主要阶段，每个阶段都有拆分了不同阶段和不同的任务活动，并且在很大程度上影响着当今最广泛使用的设计过程的模型。今天使用的设计思维过程有许多变种，而他们可能有3-7种不同的阶段，这些原理和准则都是基于西蒙的模型。</p>
@@ -74,11 +74,11 @@
   </entry>
   
   <entry>
-    <title>苹果公司的产品开发流程 - 深入世界最伟大的设计部门</title>
-    <link href="https://yujiemeng.github.io/2017/07/08/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E7%9A%84%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B%20-%20%E6%B7%B1%E5%85%A5%E4%B8%96%E7%95%8C%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%AE%BE%E8%AE%A1%E9%83%A8%E9%97%A8/"/>
-    <id>https://yujiemeng.github.io/2017/07/08/苹果公司的产品开发流程 - 深入世界最伟大的设计部门/</id>
-    <published>2017-07-08T05:06:48.000Z</published>
-    <updated>2017-07-06T07:15:43.000Z</updated>
+    <title>苹果公司的产品开发流程-深入世界最伟大的设计部门</title>
+    <link href="https://yujiemeng.github.io/2017/06/30/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E7%9A%84%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B%20-%20%E6%B7%B1%E5%85%A5%E4%B8%96%E7%95%8C%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%AE%BE%E8%AE%A1%E9%83%A8%E9%97%A8/"/>
+    <id>https://yujiemeng.github.io/2017/06/30/苹果公司的产品开发流程 - 深入世界最伟大的设计部门/</id>
+    <published>2017-06-30T05:06:48.000Z</published>
+    <updated>2017-07-06T14:50:31.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://public-media.interaction-design.org/images/ux-daily/571b32a959734.jpg" alt=""></p>
 <h1 id="苹果公司的产品开发流程-深入了解世界最伟大的设计部门"><a href="#苹果公司的产品开发流程-深入了解世界最伟大的设计部门" class="headerlink" title="苹果公司的产品开发流程 - 深入了解世界最伟大的设计部门"></a>苹果公司的产品开发流程 - 深入了解世界最伟大的设计部门</h1><p>苹果的产品开发流程可能是最成功的设计过程之一。随着公司成为世界上第一个1万亿美元的商业组织，有很多值得设计师们可以从苹果学习，并将设计思路引入自己的设计创作中。</p>
@@ -136,10 +136,10 @@
   
   <entry>
     <title>响应式Vs自适应</title>
-    <link href="https://yujiemeng.github.io/2017/07/08/%E5%93%8D%E5%BA%94%E5%BC%8FVs%E8%87%AA%E9%80%82%E5%BA%94/"/>
-    <id>https://yujiemeng.github.io/2017/07/08/响应式Vs自适应/</id>
-    <published>2017-07-08T03:06:48.000Z</published>
-    <updated>2017-07-06T14:33:15.000Z</updated>
+    <link href="https://yujiemeng.github.io/2017/06/28/%E5%93%8D%E5%BA%94%E5%BC%8FVs%E8%87%AA%E9%80%82%E5%BA%94/"/>
+    <id>https://yujiemeng.github.io/2017/06/28/响应式Vs自适应/</id>
+    <published>2017-06-28T11:06:48.000Z</published>
+    <updated>2017-07-06T14:49:17.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://public-media.interaction-design.org/images/ux-daily/article_130486_hero_594a8ede25e4e6.23409297.jpg" alt=""></p>
 <p>#响应式Vs自适应</p>
@@ -263,10 +263,10 @@
   
   <entry>
     <title>Shneiderman的八项黄金规则</title>
-    <link href="https://yujiemeng.github.io/2017/07/08/Shneiderman%E7%9A%84%E5%85%AB%E9%A1%B9%E9%BB%84%E9%87%91%E8%A7%84%E5%88%99/"/>
-    <id>https://yujiemeng.github.io/2017/07/08/Shneiderman的八项黄金规则/</id>
-    <published>2017-07-08T03:06:48.000Z</published>
-    <updated>2017-07-06T12:52:28.000Z</updated>
+    <link href="https://yujiemeng.github.io/2017/06/19/Shneiderman%E7%9A%84%E5%85%AB%E9%A1%B9%E9%BB%84%E9%87%91%E8%A7%84%E5%88%99/"/>
+    <id>https://yujiemeng.github.io/2017/06/19/Shneiderman的八项黄金规则/</id>
+    <published>2017-06-19T12:06:48.000Z</published>
+    <updated>2017-07-06T14:49:08.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://public-media.interaction-design.org/images/ux-daily/56cc0dfcc85ec.jpg" alt=""></p>
 <h1 id="Shneiderman的八项黄金规则"><a href="#Shneiderman的八项黄金规则" class="headerlink" title="Shneiderman的八项黄金规则"></a>Shneiderman的八项黄金规则</h1><p>作者：EUPHEMIA WONG</p>
@@ -346,10 +346,10 @@
   
   <entry>
     <title>10个国外关于UI设计模式最好的网站推荐</title>
-    <link href="https://yujiemeng.github.io/2017/07/08/10%E4%B8%AA%E5%9B%BD%E5%A4%96%E5%85%B3%E4%BA%8EUI%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%9C%80%E5%A5%BD%E7%9A%84%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/"/>
-    <id>https://yujiemeng.github.io/2017/07/08/10个国外关于UI设计模式最好的网站推荐/</id>
-    <published>2017-07-08T03:06:48.000Z</published>
-    <updated>2017-07-06T02:29:47.000Z</updated>
+    <link href="https://yujiemeng.github.io/2017/06/18/10%E4%B8%AA%E5%9B%BD%E5%A4%96%E5%85%B3%E4%BA%8EUI%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%9C%80%E5%A5%BD%E7%9A%84%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/"/>
+    <id>https://yujiemeng.github.io/2017/06/18/10个国外关于UI设计模式最好的网站推荐/</id>
+    <published>2017-06-18T03:06:48.000Z</published>
+    <updated>2017-07-06T14:47:35.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://public-media.interaction-design.org/images/ux-daily/57e2520fe0d67.jpg" alt=""></p>
 <h1 id="10个国外关于UI设计模式最好的网站推荐"><a href="#10个国外关于UI设计模式最好的网站推荐" class="headerlink" title="10个国外关于UI设计模式最好的网站推荐"></a>10个国外关于UI设计模式最好的网站推荐</h1><p>你不想花你的一生重新设计你的设计稿和创意吧？ 不，我们也不想这样。如果您正在寻找设计方案之前，已经在不同应用中使用过此设计方案;那么你应该已经有了设计模板在脑海中了。这是设计模式。</p>
