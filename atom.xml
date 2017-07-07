@@ -4,9 +4,9 @@
   <subtitle>scripts</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.hci-geek.com/"/>
+  <link href="https://yujiemeng.github.io/"/>
   <updated>2017-07-06T14:50:25.000Z</updated>
-  <id>http://www.hci-geek.com/</id>
+  <id>https://yujiemeng.github.io/</id>
   
   <author>
     <name>伦勃朗(Myles)</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>设计思考过程的5个步骤</title>
-    <link href="http://www.hci-geek.com/2017/07/01/%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E7%9A%845%E4%B8%AA%E6%AD%A5%E9%AA%A4/"/>
-    <id>http://www.hci-geek.com/2017/07/01/设计思考过程的5个步骤/</id>
+    <link href="https://yujiemeng.github.io/2017/07/01/%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E7%9A%845%E4%B8%AA%E6%AD%A5%E9%AA%A4/"/>
+    <id>https://yujiemeng.github.io/2017/07/01/设计思考过程的5个步骤/</id>
     <published>2017-07-01T15:06:48.000Z</published>
     <updated>2017-07-06T14:50:25.000Z</updated>
     
@@ -62,21 +62,21 @@
     
     </summary>
     
-      <category term="articals" scheme="http://www.hci-geek.com/categories/articals/"/>
+      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
     
     
-      <category term="迭代设计" scheme="http://www.hci-geek.com/tags/%E8%BF%AD%E4%BB%A3%E8%AE%BE%E8%AE%A1/"/>
+      <category term="迭代设计" scheme="https://yujiemeng.github.io/tags/%E8%BF%AD%E4%BB%A3%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="5个阶段" scheme="http://www.hci-geek.com/tags/5%E4%B8%AA%E9%98%B6%E6%AE%B5/"/>
+      <category term="5个阶段" scheme="https://yujiemeng.github.io/tags/5%E4%B8%AA%E9%98%B6%E6%AE%B5/"/>
     
-      <category term="设计思维" scheme="http://www.hci-geek.com/tags/%E8%AE%BE%E8%AE%A1%E6%80%9D%E7%BB%B4/"/>
+      <category term="设计思维" scheme="https://yujiemeng.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%80%9D%E7%BB%B4/"/>
     
   </entry>
   
   <entry>
     <title>苹果公司的产品开发流程-深入世界最伟大的设计部门</title>
-    <link href="http://www.hci-geek.com/2017/06/30/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E7%9A%84%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B%20-%20%E6%B7%B1%E5%85%A5%E4%B8%96%E7%95%8C%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%AE%BE%E8%AE%A1%E9%83%A8%E9%97%A8/"/>
-    <id>http://www.hci-geek.com/2017/06/30/苹果公司的产品开发流程 - 深入世界最伟大的设计部门/</id>
+    <link href="https://yujiemeng.github.io/2017/06/30/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E7%9A%84%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B%20-%20%E6%B7%B1%E5%85%A5%E4%B8%96%E7%95%8C%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%AE%BE%E8%AE%A1%E9%83%A8%E9%97%A8/"/>
+    <id>https://yujiemeng.github.io/2017/06/30/苹果公司的产品开发流程 - 深入世界最伟大的设计部门/</id>
     <published>2017-06-30T05:06:48.000Z</published>
     <updated>2017-07-06T14:50:31.000Z</updated>
     
@@ -123,21 +123,21 @@
     
     </summary>
     
-      <category term="articals" scheme="http://www.hci-geek.com/categories/articals/"/>
+      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
     
     
-      <category term="苹果公司设计部门" scheme="http://www.hci-geek.com/tags/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%AE%BE%E8%AE%A1%E9%83%A8%E9%97%A8/"/>
+      <category term="苹果公司设计部门" scheme="https://yujiemeng.github.io/tags/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%AE%BE%E8%AE%A1%E9%83%A8%E9%97%A8/"/>
     
-      <category term="迭代设计过程" scheme="http://www.hci-geek.com/tags/%E8%BF%AD%E4%BB%A3%E8%AE%BE%E8%AE%A1%E8%BF%87%E7%A8%8B/"/>
+      <category term="迭代设计过程" scheme="https://yujiemeng.github.io/tags/%E8%BF%AD%E4%BB%A3%E8%AE%BE%E8%AE%A1%E8%BF%87%E7%A8%8B/"/>
     
-      <category term="设计环节" scheme="http://www.hci-geek.com/tags/%E8%AE%BE%E8%AE%A1%E7%8E%AF%E8%8A%82/"/>
+      <category term="设计环节" scheme="https://yujiemeng.github.io/tags/%E8%AE%BE%E8%AE%A1%E7%8E%AF%E8%8A%82/"/>
     
   </entry>
   
   <entry>
     <title>响应式Vs自适应</title>
-    <link href="http://www.hci-geek.com/2017/06/28/%E5%93%8D%E5%BA%94%E5%BC%8FVs%E8%87%AA%E9%80%82%E5%BA%94/"/>
-    <id>http://www.hci-geek.com/2017/06/28/响应式Vs自适应/</id>
+    <link href="https://yujiemeng.github.io/2017/06/28/%E5%93%8D%E5%BA%94%E5%BC%8FVs%E8%87%AA%E9%80%82%E5%BA%94/"/>
+    <id>https://yujiemeng.github.io/2017/06/28/响应式Vs自适应/</id>
     <published>2017-06-28T11:06:48.000Z</published>
     <updated>2017-07-06T14:49:17.000Z</updated>
     
@@ -250,21 +250,21 @@
     
     </summary>
     
-      <category term="articals" scheme="http://www.hci-geek.com/categories/articals/"/>
+      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
     
     
-      <category term="响应式设计" scheme="http://www.hci-geek.com/tags/%E5%93%8D%E5%BA%94%E5%BC%8F%E8%AE%BE%E8%AE%A1/"/>
+      <category term="响应式设计" scheme="https://yujiemeng.github.io/tags/%E5%93%8D%E5%BA%94%E5%BC%8F%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="自适应设计" scheme="http://www.hci-geek.com/tags/%E8%87%AA%E9%80%82%E5%BA%94%E8%AE%BE%E8%AE%A1/"/>
+      <category term="自适应设计" scheme="https://yujiemeng.github.io/tags/%E8%87%AA%E9%80%82%E5%BA%94%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="独立设计" scheme="http://www.hci-geek.com/tags/%E7%8B%AC%E7%AB%8B%E8%AE%BE%E8%AE%A1/"/>
+      <category term="独立设计" scheme="https://yujiemeng.github.io/tags/%E7%8B%AC%E7%AB%8B%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
   <entry>
     <title>Shneiderman的八项黄金规则</title>
-    <link href="http://www.hci-geek.com/2017/06/19/Shneiderman%E7%9A%84%E5%85%AB%E9%A1%B9%E9%BB%84%E9%87%91%E8%A7%84%E5%88%99/"/>
-    <id>http://www.hci-geek.com/2017/06/19/Shneiderman的八项黄金规则/</id>
+    <link href="https://yujiemeng.github.io/2017/06/19/Shneiderman%E7%9A%84%E5%85%AB%E9%A1%B9%E9%BB%84%E9%87%91%E8%A7%84%E5%88%99/"/>
+    <id>https://yujiemeng.github.io/2017/06/19/Shneiderman的八项黄金规则/</id>
     <published>2017-06-19T12:06:48.000Z</published>
     <updated>2017-07-06T14:49:08.000Z</updated>
     
@@ -333,21 +333,21 @@
     
     </summary>
     
-      <category term="articals" scheme="http://www.hci-geek.com/categories/articals/"/>
+      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
     
     
-      <category term="用户界面设计" scheme="http://www.hci-geek.com/tags/%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="用户界面设计" scheme="https://yujiemeng.github.io/tags/%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Shneiderman" scheme="http://www.hci-geek.com/tags/Shneiderman/"/>
+      <category term="Shneiderman" scheme="https://yujiemeng.github.io/tags/Shneiderman/"/>
     
-      <category term="用户体验设计" scheme="http://www.hci-geek.com/tags/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1/"/>
+      <category term="用户体验设计" scheme="https://yujiemeng.github.io/tags/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
   <entry>
     <title>10个国外关于UI设计模式最好的网站推荐</title>
-    <link href="http://www.hci-geek.com/2017/06/18/10%E4%B8%AA%E5%9B%BD%E5%A4%96%E5%85%B3%E4%BA%8EUI%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%9C%80%E5%A5%BD%E7%9A%84%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/"/>
-    <id>http://www.hci-geek.com/2017/06/18/10个国外关于UI设计模式最好的网站推荐/</id>
+    <link href="https://yujiemeng.github.io/2017/06/18/10%E4%B8%AA%E5%9B%BD%E5%A4%96%E5%85%B3%E4%BA%8EUI%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%9C%80%E5%A5%BD%E7%9A%84%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/"/>
+    <id>https://yujiemeng.github.io/2017/06/18/10个国外关于UI设计模式最好的网站推荐/</id>
     <published>2017-06-18T03:06:48.000Z</published>
     <updated>2017-07-06T14:47:35.000Z</updated>
     
@@ -374,21 +374,21 @@
     
     </summary>
     
-      <category term="articals" scheme="http://www.hci-geek.com/categories/articals/"/>
+      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
     
     
-      <category term="User Interface (UI) Design" scheme="http://www.hci-geek.com/tags/User-Interface-UI-Design/"/>
+      <category term="User Interface (UI) Design" scheme="https://yujiemeng.github.io/tags/User-Interface-UI-Design/"/>
     
-      <category term="Graphic Design  User Interface (UI)" scheme="http://www.hci-geek.com/tags/Graphic-Design-User-Interface-UI/"/>
+      <category term="Graphic Design  User Interface (UI)" scheme="https://yujiemeng.github.io/tags/Graphic-Design-User-Interface-UI/"/>
     
-      <category term="Design Patterns" scheme="http://www.hci-geek.com/tags/Design-Patterns/"/>
+      <category term="Design Patterns" scheme="https://yujiemeng.github.io/tags/Design-Patterns/"/>
     
   </entry>
   
   <entry>
     <title>易企秀产品分析</title>
-    <link href="http://www.hci-geek.com/2016/11/18/16-11-18%20%E6%98%93%E4%BC%81%E7%A7%80%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/"/>
-    <id>http://www.hci-geek.com/2016/11/18/16-11-18 易企秀产品分析/</id>
+    <link href="https://yujiemeng.github.io/2016/11/18/16-11-18%20%E6%98%93%E4%BC%81%E7%A7%80%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/"/>
+    <id>https://yujiemeng.github.io/2016/11/18/16-11-18 易企秀产品分析/</id>
     <published>2016-11-18T03:06:48.000Z</published>
     <updated>2016-11-18T03:14:52.000Z</updated>
     
@@ -504,21 +504,21 @@
     
     </summary>
     
-      <category term="articals" scheme="http://www.hci-geek.com/categories/articals/"/>
+      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
     
     
-      <category term="产品分析" scheme="http://www.hci-geek.com/tags/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/"/>
+      <category term="产品分析" scheme="https://yujiemeng.github.io/tags/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/"/>
     
-      <category term="商业模型" scheme="http://www.hci-geek.com/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%9E%8B/"/>
+      <category term="商业模型" scheme="https://yujiemeng.github.io/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%9E%8B/"/>
     
-      <category term="产品商业化" scheme="http://www.hci-geek.com/tags/%E4%BA%A7%E5%93%81%E5%95%86%E4%B8%9A%E5%8C%96/"/>
+      <category term="产品商业化" scheme="https://yujiemeng.github.io/tags/%E4%BA%A7%E5%93%81%E5%95%86%E4%B8%9A%E5%8C%96/"/>
     
   </entry>
   
   <entry>
     <title>互联网团队如何协作</title>
-    <link href="http://www.hci-geek.com/2016/11/17/16-11-17%20%E4%BA%92%E8%81%94%E7%BD%91%E5%9B%A2%E9%98%9F%E5%A6%82%E4%BD%95%E5%8D%8F%E4%BD%9C/"/>
-    <id>http://www.hci-geek.com/2016/11/17/16-11-17 互联网团队如何协作/</id>
+    <link href="https://yujiemeng.github.io/2016/11/17/16-11-17%20%E4%BA%92%E8%81%94%E7%BD%91%E5%9B%A2%E9%98%9F%E5%A6%82%E4%BD%95%E5%8D%8F%E4%BD%9C/"/>
+    <id>https://yujiemeng.github.io/2016/11/17/16-11-17 互联网团队如何协作/</id>
     <published>2016-11-17T03:00:07.000Z</published>
     <updated>2016-11-17T05:13:25.000Z</updated>
     
@@ -551,22 +551,22 @@
     </summary>
     
     
-      <category term="管理" scheme="http://www.hci-geek.com/tags/%E7%AE%A1%E7%90%86/"/>
+      <category term="管理" scheme="https://yujiemeng.github.io/tags/%E7%AE%A1%E7%90%86/"/>
     
-      <category term="团队" scheme="http://www.hci-geek.com/tags/%E5%9B%A2%E9%98%9F/"/>
+      <category term="团队" scheme="https://yujiemeng.github.io/tags/%E5%9B%A2%E9%98%9F/"/>
     
-      <category term="协作" scheme="http://www.hci-geek.com/tags/%E5%8D%8F%E4%BD%9C/"/>
+      <category term="协作" scheme="https://yujiemeng.github.io/tags/%E5%8D%8F%E4%BD%9C/"/>
     
-      <category term="平衡" scheme="http://www.hci-geek.com/tags/%E5%B9%B3%E8%A1%A1/"/>
+      <category term="平衡" scheme="https://yujiemeng.github.io/tags/%E5%B9%B3%E8%A1%A1/"/>
     
-      <category term="互联网团队" scheme="http://www.hci-geek.com/tags/%E4%BA%92%E8%81%94%E7%BD%91%E5%9B%A2%E9%98%9F/"/>
+      <category term="互联网团队" scheme="https://yujiemeng.github.io/tags/%E4%BA%92%E8%81%94%E7%BD%91%E5%9B%A2%E9%98%9F/"/>
     
   </entry>
   
   <entry>
     <title>执行力的碎念</title>
-    <link href="http://www.hci-geek.com/2016/11/17/16-11-17%20%E6%89%A7%E8%A1%8C%E5%8A%9B/"/>
-    <id>http://www.hci-geek.com/2016/11/17/16-11-17 执行力/</id>
+    <link href="https://yujiemeng.github.io/2016/11/17/16-11-17%20%E6%89%A7%E8%A1%8C%E5%8A%9B/"/>
+    <id>https://yujiemeng.github.io/2016/11/17/16-11-17 执行力/</id>
     <published>2016-11-17T01:29:49.000Z</published>
     <updated>2016-11-17T01:32:43.000Z</updated>
     
@@ -596,19 +596,19 @@
     
     </summary>
     
-      <category term="articals" scheme="http://www.hci-geek.com/categories/articals/"/>
+      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
     
     
-      <category term="管理" scheme="http://www.hci-geek.com/tags/%E7%AE%A1%E7%90%86/"/>
+      <category term="管理" scheme="https://yujiemeng.github.io/tags/%E7%AE%A1%E7%90%86/"/>
     
-      <category term="执行力" scheme="http://www.hci-geek.com/tags/%E6%89%A7%E8%A1%8C%E5%8A%9B/"/>
+      <category term="执行力" scheme="https://yujiemeng.github.io/tags/%E6%89%A7%E8%A1%8C%E5%8A%9B/"/>
     
   </entry>
   
   <entry>
     <title>消费升级 -  听罗胖跨年演讲思考</title>
-    <link href="http://www.hci-geek.com/2016/10/20/16-10-20%20%E6%B6%88%E8%B4%B9%E5%8D%87%E7%BA%A7/"/>
-    <id>http://www.hci-geek.com/2016/10/20/16-10-20 消费升级/</id>
+    <link href="https://yujiemeng.github.io/2016/10/20/16-10-20%20%E6%B6%88%E8%B4%B9%E5%8D%87%E7%BA%A7/"/>
+    <id>https://yujiemeng.github.io/2016/10/20/16-10-20 消费升级/</id>
     <published>2016-10-20T01:38:02.000Z</published>
     <updated>2016-11-17T01:43:05.000Z</updated>
     
@@ -647,23 +647,23 @@
     
     </summary>
     
-      <category term="articals" scheme="http://www.hci-geek.com/categories/articals/"/>
+      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
     
     
-      <category term="消费升级" scheme="http://www.hci-geek.com/tags/%E6%B6%88%E8%B4%B9%E5%8D%87%E7%BA%A7/"/>
+      <category term="消费升级" scheme="https://yujiemeng.github.io/tags/%E6%B6%88%E8%B4%B9%E5%8D%87%E7%BA%A7/"/>
     
-      <category term="罗胖" scheme="http://www.hci-geek.com/tags/%E7%BD%97%E8%83%96/"/>
+      <category term="罗胖" scheme="https://yujiemeng.github.io/tags/%E7%BD%97%E8%83%96/"/>
     
-      <category term="认知升级" scheme="http://www.hci-geek.com/tags/%E8%AE%A4%E7%9F%A5%E5%8D%87%E7%BA%A7/"/>
+      <category term="认知升级" scheme="https://yujiemeng.github.io/tags/%E8%AE%A4%E7%9F%A5%E5%8D%87%E7%BA%A7/"/>
     
-      <category term="互联网" scheme="http://www.hci-geek.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="https://yujiemeng.github.io/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
   </entry>
   
   <entry>
     <title>思考《李笑来 - 通往财富自由之路》</title>
-    <link href="http://www.hci-geek.com/2016/10/13/16-10-13%E6%80%9D%E8%80%83%E3%80%8A%E6%9D%8E%E7%AC%91%E6%9D%A5%20-%20%E9%80%9A%E5%BE%80%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF%E3%80%8B/"/>
-    <id>http://www.hci-geek.com/2016/10/13/16-10-13思考《李笑来 - 通往财富自由之路》/</id>
+    <link href="https://yujiemeng.github.io/2016/10/13/16-10-13%E6%80%9D%E8%80%83%E3%80%8A%E6%9D%8E%E7%AC%91%E6%9D%A5%20-%20%E9%80%9A%E5%BE%80%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF%E3%80%8B/"/>
+    <id>https://yujiemeng.github.io/2016/10/13/16-10-13思考《李笑来 - 通往财富自由之路》/</id>
     <published>2016-10-13T07:30:08.000Z</published>
     <updated>2016-10-13T07:30:27.000Z</updated>
     
@@ -735,21 +735,21 @@
     
     </summary>
     
-      <category term="articals" scheme="http://www.hci-geek.com/categories/articals/"/>
+      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
     
     
-      <category term="李笑来" scheme="http://www.hci-geek.com/tags/%E6%9D%8E%E7%AC%91%E6%9D%A5/"/>
+      <category term="李笑来" scheme="https://yujiemeng.github.io/tags/%E6%9D%8E%E7%AC%91%E6%9D%A5/"/>
     
-      <category term="财富自由" scheme="http://www.hci-geek.com/tags/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
+      <category term="财富自由" scheme="https://yujiemeng.github.io/tags/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
     
-      <category term="注意力" scheme="http://www.hci-geek.com/tags/%E6%B3%A8%E6%84%8F%E5%8A%9B/"/>
+      <category term="注意力" scheme="https://yujiemeng.github.io/tags/%E6%B3%A8%E6%84%8F%E5%8A%9B/"/>
     
   </entry>
   
   <entry>
     <title>产品观念</title>
-    <link href="http://www.hci-geek.com/2016/10/13/16-09-17%20%E4%BA%A7%E5%93%81%E8%A7%82%E5%BF%B5/"/>
-    <id>http://www.hci-geek.com/2016/10/13/16-09-17 产品观念/</id>
+    <link href="https://yujiemeng.github.io/2016/10/13/16-09-17%20%E4%BA%A7%E5%93%81%E8%A7%82%E5%BF%B5/"/>
+    <id>https://yujiemeng.github.io/2016/10/13/16-09-17 产品观念/</id>
     <published>2016-10-13T01:46:06.000Z</published>
     <updated>2016-10-13T07:21:42.000Z</updated>
     
@@ -766,17 +766,17 @@
     
     </summary>
     
-      <category term="chats" scheme="http://www.hci-geek.com/categories/chats/"/>
+      <category term="chats" scheme="https://yujiemeng.github.io/categories/chats/"/>
     
     
-      <category term="产品" scheme="http://www.hci-geek.com/tags/%E4%BA%A7%E5%93%81/"/>
+      <category term="产品" scheme="https://yujiemeng.github.io/tags/%E4%BA%A7%E5%93%81/"/>
     
   </entry>
   
   <entry>
     <title>Growth Hacking 与市场营销的区别是什么？</title>
-    <link href="http://www.hci-geek.com/2016/10/10/16-09-20%20Growth%20Hacking%20%E4%B8%8E%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
-    <id>http://www.hci-geek.com/2016/10/10/16-09-20 Growth Hacking 与市场营销的区别是什么？/</id>
+    <link href="https://yujiemeng.github.io/2016/10/10/16-09-20%20Growth%20Hacking%20%E4%B8%8E%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
+    <id>https://yujiemeng.github.io/2016/10/10/16-09-20 Growth Hacking 与市场营销的区别是什么？/</id>
     <published>2016-10-10T09:50:08.000Z</published>
     <updated>2016-10-13T07:18:45.000Z</updated>
     
@@ -806,23 +806,23 @@
     
     </summary>
     
-      <category term="articals" scheme="http://www.hci-geek.com/categories/articals/"/>
+      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
     
     
-      <category term="Growth" scheme="http://www.hci-geek.com/tags/Growth/"/>
+      <category term="Growth" scheme="https://yujiemeng.github.io/tags/Growth/"/>
     
-      <category term="Hacking" scheme="http://www.hci-geek.com/tags/Hacking/"/>
+      <category term="Hacking" scheme="https://yujiemeng.github.io/tags/Hacking/"/>
     
-      <category term="市场营销" scheme="http://www.hci-geek.com/tags/%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80/"/>
+      <category term="市场营销" scheme="https://yujiemeng.github.io/tags/%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80/"/>
     
-      <category term="营销" scheme="http://www.hci-geek.com/tags/%E8%90%A5%E9%94%80/"/>
+      <category term="营销" scheme="https://yujiemeng.github.io/tags/%E8%90%A5%E9%94%80/"/>
     
   </entry>
   
   <entry>
     <title>职业生涯中的升级不二法则</title>
-    <link href="http://www.hci-geek.com/2016/09/17/16-09-23%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E4%B8%AD%E7%9A%84%E5%8D%87%E7%BA%A7%E4%B8%8D%E4%BA%8C%E6%B3%95%E5%88%99/"/>
-    <id>http://www.hci-geek.com/2016/09/17/16-09-23职业生涯中的升级不二法则/</id>
+    <link href="https://yujiemeng.github.io/2016/09/17/16-09-23%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E4%B8%AD%E7%9A%84%E5%8D%87%E7%BA%A7%E4%B8%8D%E4%BA%8C%E6%B3%95%E5%88%99/"/>
+    <id>https://yujiemeng.github.io/2016/09/17/16-09-23职业生涯中的升级不二法则/</id>
     <published>2016-09-17T09:23:33.000Z</published>
     <updated>2016-09-17T09:29:11.000Z</updated>
     
@@ -867,21 +867,21 @@
     
     </summary>
     
-      <category term="articals" scheme="http://www.hci-geek.com/categories/articals/"/>
+      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
     
     
-      <category term="职业生涯" scheme="http://www.hci-geek.com/tags/%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF/"/>
+      <category term="职业生涯" scheme="https://yujiemeng.github.io/tags/%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF/"/>
     
-      <category term="思考" scheme="http://www.hci-geek.com/tags/%E6%80%9D%E8%80%83/"/>
+      <category term="思考" scheme="https://yujiemeng.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
-      <category term="彼得高地" scheme="http://www.hci-geek.com/tags/%E5%BD%BC%E5%BE%97%E9%AB%98%E5%9C%B0/"/>
+      <category term="彼得高地" scheme="https://yujiemeng.github.io/tags/%E5%BD%BC%E5%BE%97%E9%AB%98%E5%9C%B0/"/>
     
   </entry>
   
   <entry>
     <title>序 - 《失控》能给产品带来什么？</title>
-    <link href="http://www.hci-geek.com/2016/08/18/16-09-17%E5%BA%8F-%E3%80%8A%E5%A4%B1%E6%8E%A7%E3%80%8B%E8%83%BD%E7%BB%99%E4%BA%A7%E5%93%81%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
-    <id>http://www.hci-geek.com/2016/08/18/16-09-17序-《失控》能给产品带来什么？/</id>
+    <link href="https://yujiemeng.github.io/2016/08/18/16-09-17%E5%BA%8F-%E3%80%8A%E5%A4%B1%E6%8E%A7%E3%80%8B%E8%83%BD%E7%BB%99%E4%BA%A7%E5%93%81%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
+    <id>https://yujiemeng.github.io/2016/08/18/16-09-17序-《失控》能给产品带来什么？/</id>
     <published>2016-08-18T02:43:53.000Z</published>
     <updated>2016-09-17T02:05:48.000Z</updated>
     
@@ -906,23 +906,23 @@
     
     </summary>
     
-      <category term="articals" scheme="http://www.hci-geek.com/categories/articals/"/>
+      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
     
     
-      <category term="产品" scheme="http://www.hci-geek.com/tags/%E4%BA%A7%E5%93%81/"/>
+      <category term="产品" scheme="https://yujiemeng.github.io/tags/%E4%BA%A7%E5%93%81/"/>
     
-      <category term="失控" scheme="http://www.hci-geek.com/tags/%E5%A4%B1%E6%8E%A7/"/>
+      <category term="失控" scheme="https://yujiemeng.github.io/tags/%E5%A4%B1%E6%8E%A7/"/>
     
-      <category term="社会" scheme="http://www.hci-geek.com/tags/%E7%A4%BE%E4%BC%9A/"/>
+      <category term="社会" scheme="https://yujiemeng.github.io/tags/%E7%A4%BE%E4%BC%9A/"/>
     
-      <category term="自然" scheme="http://www.hci-geek.com/tags/%E8%87%AA%E7%84%B6/"/>
+      <category term="自然" scheme="https://yujiemeng.github.io/tags/%E8%87%AA%E7%84%B6/"/>
     
   </entry>
   
   <entry>
     <title>产品与运营能够产生的火花</title>
-    <link href="http://www.hci-geek.com/2016/08/05/16-09-17%E4%BA%A7%E5%93%81%E4%B8%8E%E8%BF%90%E8%90%A5%E8%83%BD%E5%A4%9F%E4%BA%A7%E7%94%9F%E7%9A%84%E7%81%AB%E8%8A%B1/"/>
-    <id>http://www.hci-geek.com/2016/08/05/16-09-17产品与运营能够产生的火花/</id>
+    <link href="https://yujiemeng.github.io/2016/08/05/16-09-17%E4%BA%A7%E5%93%81%E4%B8%8E%E8%BF%90%E8%90%A5%E8%83%BD%E5%A4%9F%E4%BA%A7%E7%94%9F%E7%9A%84%E7%81%AB%E8%8A%B1/"/>
+    <id>https://yujiemeng.github.io/2016/08/05/16-09-17产品与运营能够产生的火花/</id>
     <published>2016-08-05T03:06:50.000Z</published>
     <updated>2016-09-17T09:26:11.000Z</updated>
     
@@ -963,21 +963,21 @@
     
     </summary>
     
-      <category term="articals" scheme="http://www.hci-geek.com/categories/articals/"/>
+      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
     
     
-      <category term="内容运营" scheme="http://www.hci-geek.com/tags/%E5%86%85%E5%AE%B9%E8%BF%90%E8%90%A5/"/>
+      <category term="内容运营" scheme="https://yujiemeng.github.io/tags/%E5%86%85%E5%AE%B9%E8%BF%90%E8%90%A5/"/>
     
-      <category term="产品设计" scheme="http://www.hci-geek.com/tags/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/"/>
+      <category term="产品设计" scheme="https://yujiemeng.github.io/tags/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="需求分析" scheme="http://www.hci-geek.com/tags/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90/"/>
+      <category term="需求分析" scheme="https://yujiemeng.github.io/tags/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90/"/>
     
   </entry>
   
   <entry>
     <title>怎样看待Pokémon Go的商业化尝试 ？</title>
-    <link href="http://www.hci-geek.com/2016/08/02/16-07-27%E6%80%8E%E6%A0%B7%E7%9C%8B%E5%BE%85Pokemon-Go%E7%9A%84%E5%95%86%E4%B8%9A%E5%8C%96%E5%B0%9D%E8%AF%95-%EF%BC%9F/"/>
-    <id>http://www.hci-geek.com/2016/08/02/16-07-27怎样看待Pokemon-Go的商业化尝试-？/</id>
+    <link href="https://yujiemeng.github.io/2016/08/02/16-07-27%E6%80%8E%E6%A0%B7%E7%9C%8B%E5%BE%85Pokemon-Go%E7%9A%84%E5%95%86%E4%B8%9A%E5%8C%96%E5%B0%9D%E8%AF%95-%EF%BC%9F/"/>
+    <id>https://yujiemeng.github.io/2016/08/02/16-07-27怎样看待Pokemon-Go的商业化尝试-？/</id>
     <published>2016-08-02T13:24:49.000Z</published>
     <updated>2016-09-17T01:54:02.000Z</updated>
     
@@ -1000,19 +1000,19 @@
     
     </summary>
     
-      <category term="articals" scheme="http://www.hci-geek.com/categories/articals/"/>
+      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
     
     
-      <category term="AR" scheme="http://www.hci-geek.com/tags/AR/"/>
+      <category term="AR" scheme="https://yujiemeng.github.io/tags/AR/"/>
     
-      <category term="移动营销" scheme="http://www.hci-geek.com/tags/%E7%A7%BB%E5%8A%A8%E8%90%A5%E9%94%80/"/>
+      <category term="移动营销" scheme="https://yujiemeng.github.io/tags/%E7%A7%BB%E5%8A%A8%E8%90%A5%E9%94%80/"/>
     
   </entry>
   
   <entry>
     <title>人格魅力与团队管理</title>
-    <link href="http://www.hci-geek.com/2016/07/31/16-09-17%E4%BA%BA%E6%A0%BC%E9%AD%85%E5%8A%9B%E4%B8%8E%E5%9B%A2%E9%98%9F%E7%AE%A1%E7%90%86/"/>
-    <id>http://www.hci-geek.com/2016/07/31/16-09-17人格魅力与团队管理/</id>
+    <link href="https://yujiemeng.github.io/2016/07/31/16-09-17%E4%BA%BA%E6%A0%BC%E9%AD%85%E5%8A%9B%E4%B8%8E%E5%9B%A2%E9%98%9F%E7%AE%A1%E7%90%86/"/>
+    <id>https://yujiemeng.github.io/2016/07/31/16-09-17人格魅力与团队管理/</id>
     <published>2016-07-31T09:50:08.000Z</published>
     <updated>2016-09-17T02:05:48.000Z</updated>
     
@@ -1049,12 +1049,12 @@
     
     </summary>
     
-      <category term="articals" scheme="http://www.hci-geek.com/categories/articals/"/>
+      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
     
     
-      <category term="管理" scheme="http://www.hci-geek.com/tags/%E7%AE%A1%E7%90%86/"/>
+      <category term="管理" scheme="https://yujiemeng.github.io/tags/%E7%AE%A1%E7%90%86/"/>
     
-      <category term="团队" scheme="http://www.hci-geek.com/tags/%E5%9B%A2%E9%98%9F/"/>
+      <category term="团队" scheme="https://yujiemeng.github.io/tags/%E5%9B%A2%E9%98%9F/"/>
     
   </entry>
   
