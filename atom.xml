@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>One Miles</title>
+  <title>HCI-Geek</title>
   <subtitle>scripts</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yujiemeng.github.io/"/>
-  <updated>2017-07-06T14:50:25.000Z</updated>
+  <updated>2017-07-07T08:30:17.000Z</updated>
   <id>https://yujiemeng.github.io/</id>
   
   <author>
@@ -20,12 +20,13 @@
     <link href="https://yujiemeng.github.io/2017/07/01/%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E7%9A%845%E4%B8%AA%E6%AD%A5%E9%AA%A4/"/>
     <id>https://yujiemeng.github.io/2017/07/01/设计思考过程的5个步骤/</id>
     <published>2017-07-01T15:06:48.000Z</published>
-    <updated>2017-07-06T14:50:25.000Z</updated>
+    <updated>2017-07-07T08:30:17.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://public-media.interaction-design.org/images/ux-daily/5808b55608af6.jpg" alt=""></p>
-<h1 id="设计思考过程的5个步骤"><a href="#设计思考过程的5个步骤" class="headerlink" title="设计思考过程的5个步骤"></a>设计思考过程的5个步骤</h1><p>作者: RIKKE DAM TEO SIANG  翻译：Myles Meng</p>
+    <content type="html"><![CDATA[<div class="credit_author clearfix"><br>        <div class="photo"><br>            <img src="/images/invite-idf-logo.png" title="Interaction Design Foundation"><br>        </div><div class="bio"><div class="name">Interaction Design Foundation</div><p>Interaction Design Foundation是一个国际大型用户体验设计社区，旨在为设计从业者提供丰富的学习内容和设计知识。</p></div><br><div class="credit_link">这篇文章是转载Interaction Design Foundation社区：文章已在原社区获得作者的授权。<p><br><a href="https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process?ep=yujie-meng" target="_blank">5 Stages in the Design Thinking Process</a></p><br></div><br></div>
+
+
+<p>作者: RIKKE DAM TEO SIANG  翻译：Myles Meng</p>
 <p>设计思维是一种设计方法论，基于解决方案提供一套解决问题的方法，尤其这些问题是不明确的或未知的。通过理解所涉及的用户需求，以人为本的方式重新构建问题；在头脑风暴会议中创造许多想法，并采取实际操作方式来解决复杂的问题；这在创作原型和测试环节中是非常有用的。了解设计思考过程的这五个阶段，将赋予任何人应用设计思维方法，以解决我们周围发生的复杂问题。这些问题可能是在我们公司，在我们的国家甚至我们所在的星球。</p>
-<p> Simon’s model consists of seven major stages, each with component stages and activities, and was largely influential in shaping some of the most widely used Design Thinking process models today. There are many variants of the Design Thinking process in use today, and while they may have different numbers of stages ranging from three to seven, they are all based upon the same principles featured in Simon’s 1969 model.</p>
 <p>1969年，诺贝尔奖获得者赫伯特·西蒙（Herbert Simon）在关于设计方法的“人造科学”中概述了设计思维过程的第一个正式模型。西蒙的模式包括七个主要阶段，每个阶段都有拆分了不同阶段和不同的任务活动，并且在很大程度上影响着当今最广泛使用的设计过程的模型。今天使用的设计思维过程有许多变种，而他们可能有3-7种不同的阶段，这些原理和准则都是基于西蒙的模型。</p>
 <p>我们将重点介绍教授设计思维领先的斯坦福大学(d.school)的哈斯普拉特纳设计学院（Hasso-Plattner Institute of Design）提出的五大阶段模式。根据斯坦福的定义，设计思维的五个阶段如下：同理心过程，定义问题的过程，创意产生的过程，制作原型的过程和测试过程。我们来仔细看看设计思维的五个不同阶段。</p>
 <h2 id="1-Empathise同理心"><a href="#1-Empathise同理心" class="headerlink" title="1.Empathise同理心"></a>1.Empathise同理心</h2><p><img src="https://public-media.interaction-design.org/images/uploads/8c5ed18522253007ab65d6a87377939b.jpg" alt=""><br>版权所有：Teo Yu Siang and Interaction Design Foundation；版权协议：CC BY-NC-SA 3.0</p>
@@ -62,7 +63,7 @@
     
     </summary>
     
-      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
+      <category term="IDF" scheme="https://yujiemeng.github.io/categories/IDF/"/>
     
     
       <category term="迭代设计" scheme="https://yujiemeng.github.io/tags/%E8%BF%AD%E4%BB%A3%E8%AE%BE%E8%AE%A1/"/>
@@ -78,10 +79,11 @@
     <link href="https://yujiemeng.github.io/2017/06/30/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E7%9A%84%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B%20-%20%E6%B7%B1%E5%85%A5%E4%B8%96%E7%95%8C%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%AE%BE%E8%AE%A1%E9%83%A8%E9%97%A8/"/>
     <id>https://yujiemeng.github.io/2017/06/30/苹果公司的产品开发流程 - 深入世界最伟大的设计部门/</id>
     <published>2017-06-30T05:06:48.000Z</published>
-    <updated>2017-07-06T14:50:31.000Z</updated>
+    <updated>2017-07-07T08:30:11.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://public-media.interaction-design.org/images/ux-daily/571b32a959734.jpg" alt=""></p>
-<h1 id="苹果公司的产品开发流程-深入了解世界最伟大的设计部门"><a href="#苹果公司的产品开发流程-深入了解世界最伟大的设计部门" class="headerlink" title="苹果公司的产品开发流程 - 深入了解世界最伟大的设计部门"></a>苹果公司的产品开发流程 - 深入了解世界最伟大的设计部门</h1><p>苹果的产品开发流程可能是最成功的设计过程之一。随着公司成为世界上第一个1万亿美元的商业组织，有很多值得设计师们可以从苹果学习，并将设计思路引入自己的设计创作中。</p>
+    <content type="html"><![CDATA[<div class="credit_author clearfix"><br>        <div class="photo"><br>            <img src="/images/invite-idf-logo.png" title="Interaction Design Foundation"><br>        </div><div class="bio"><div class="name">Interaction Design Foundation</div><p>Interaction Design Foundation是一个国际大型用户体验设计社区，旨在为设计从业者提供丰富的学习内容和设计知识。</p></div><br><div class="credit_link">这篇文章是转载Interaction Design Foundation社区：文章已在原社区获得作者的授权。<p><br><a href="https://www.interaction-design.org/literature/article/apple-s-product-development-process-inside-the-world-s-greatest-design-organization?ep=yujie-meng" target="_blank">Apple’s Product Development Process – Inside the World’s Greatest Design Organization</a></p><br></div><br></div>
+
+<p>苹果的产品开发流程可能是最成功的设计过程之一。随着公司成为世界上第一个1万亿美元的商业组织，有很多值得设计师们可以从苹果学习，并将设计思路引入自己的设计创作中。</p>
 <p>苹果是一个众所周知的保密型业务运作的企业。史蒂夫·乔布斯在公司的时间里，几乎不可能了解企业的内部运作。当企业的市场优势是其设计方法时，这并不奇怪。所以这些是值得保留下来的。</p>
 <p>不过，Inside Apple的作者亚当·拉辛斯基（Adam Lashinsky）认为：美国最受赞赏和公认的公司是如何工作的。尽管苹果的工作方式仍然保密，但您可以对整体的流程有一个很好的了解和认识。</p>
 <h2 id="苹果产品的开发过程"><a href="#苹果产品的开发过程" class="headerlink" title="苹果产品的开发过程"></a>苹果产品的开发过程</h2><h3 id="设计环节是所有环节中的首位"><a href="#设计环节是所有环节中的首位" class="headerlink" title="设计环节是所有环节中的首位"></a>设计环节是所有环节中的首位</h3><p><img src="https://public-media.interaction-design.org/images/uploads/ff4b55267e1b3aeddd4aeab746d9e7ce.png" alt="版权所有：GiuliaPiccoliTrapletti；版权协议：CC BY-SA 4.0"><br>版权所有：GiuliaPiccoliTrapletti；版权协议：CC BY-SA 4.0</p>
@@ -123,7 +125,7 @@
     
     </summary>
     
-      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
+      <category term="IDF" scheme="https://yujiemeng.github.io/categories/IDF/"/>
     
     
       <category term="苹果公司设计部门" scheme="https://yujiemeng.github.io/tags/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%AE%BE%E8%AE%A1%E9%83%A8%E9%97%A8/"/>
@@ -139,10 +141,13 @@
     <link href="https://yujiemeng.github.io/2017/06/28/%E5%93%8D%E5%BA%94%E5%BC%8FVs%E8%87%AA%E9%80%82%E5%BA%94/"/>
     <id>https://yujiemeng.github.io/2017/06/28/响应式Vs自适应/</id>
     <published>2017-06-28T11:06:48.000Z</published>
-    <updated>2017-07-06T14:49:17.000Z</updated>
+    <updated>2017-07-07T08:30:13.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://public-media.interaction-design.org/images/ux-daily/article_130486_hero_594a8ede25e4e6.23409297.jpg" alt=""></p>
-<p>#响应式Vs自适应</p>
+    <content type="html"><![CDATA[<div class="credit_author clearfix"><br>        <div class="photo"><br>            <img src="/images/invite-idf-logo.png" title="Interaction Design Foundation"><br>        </div><div class="bio"><div class="name">Interaction Design Foundation</div><p>Interaction Design Foundation是一个国际大型用户体验设计社区，旨在为设计从业者提供丰富的学习内容和设计知识。</p></div><br><div class="credit_link">这篇文章是转载Interaction Design Foundation社区：文章已在原社区获得作者的授权。<p><br><a href="https://www.interaction-design.org/literature/article/adaptive-vs-responsive-design?ep=yujie-meng" target="_blank">Adaptive vs. Responsive Design</a></p><br></div><br></div>
+
+
+
+
 <p>响应式和自适应设计之间的不同，为Web和移动应用的设计师注入了重要的选择。通过对两者的洞察可以让您以更好的目标，目的和结果来规划和执行您的设计。</p>
 <p>随着各种各样的移动设备的普及，作为设计师，我们需要设计满足各种屏幕尺寸方案。这是每个应用设计人员目前面临的挑战。从巨型企业显示器到智能手表，用户可以线上访问信息的方式有很多。寻求弥合设备之间差距的设计人员有两个选择：自适应站点或响应站点。</p>
 <p><img src="https://public-media.interaction-design.org/images/uploads/b1eac8c6bb5175309af8867141f2bf99.jpg" alt=""></p>
@@ -250,7 +255,7 @@
     
     </summary>
     
-      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
+      <category term="IDF" scheme="https://yujiemeng.github.io/categories/IDF/"/>
     
     
       <category term="响应式设计" scheme="https://yujiemeng.github.io/tags/%E5%93%8D%E5%BA%94%E5%BC%8F%E8%AE%BE%E8%AE%A1/"/>
@@ -266,10 +271,11 @@
     <link href="https://yujiemeng.github.io/2017/06/19/Shneiderman%E7%9A%84%E5%85%AB%E9%A1%B9%E9%BB%84%E9%87%91%E8%A7%84%E5%88%99/"/>
     <id>https://yujiemeng.github.io/2017/06/19/Shneiderman的八项黄金规则/</id>
     <published>2017-06-19T12:06:48.000Z</published>
-    <updated>2017-07-06T14:49:08.000Z</updated>
+    <updated>2017-07-07T08:30:25.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://public-media.interaction-design.org/images/ux-daily/56cc0dfcc85ec.jpg" alt=""></p>
-<h1 id="Shneiderman的八项黄金规则"><a href="#Shneiderman的八项黄金规则" class="headerlink" title="Shneiderman的八项黄金规则"></a>Shneiderman的八项黄金规则</h1><p>作者：EUPHEMIA WONG</p>
+    <content type="html"><![CDATA[<div class="credit_author clearfix"><br>        <div class="photo"><br>            <img src="/images/invite-idf-logo.png" title="Interaction Design Foundation"><br>        </div><div class="bio"><div class="name">Interaction Design Foundation</div><p>Interaction Design Foundation是一个国际大型用户体验设计社区，旨在为设计从业者提供丰富的学习内容和设计知识。</p></div><br><div class="credit_link">这篇文章是转载Interaction Design Foundation社区：文章已在原社区获得作者的授权。<p><br><a href="https://www.interaction-design.org/literature/article/shneiderman-s-eight-golden-rules-will-help-you-design-better-interfaces?ep=yujie-meng" target="_blank">Shneiderman’s Eight Golden Rules Will Help You Design Better Interfaces</a></p><br></div><br></div>
+
+<p>作者：EUPHEMIA WONG</p>
 <p><em>如果您想要设计出优秀，高效和无挫的用户界面，请遵循本·谢内德曼（Ben Shneiderman）的“八个黄金界面设计规则”。 苹果，谷歌和微软其精心设计的产品反映了Shneiderman的规则。可以在诸如上述企业巨头制作的各种用户界面中可以发现Shneiderman的黄金规则。这些规则的视觉实现在其产生的流行界面中更加明显。本文将教你如何通过整合8项黄金规则来优化您的工作。</em></p>
 <h2 id="8-Golden-Rules-of-Interface-Design"><a href="#8-Golden-Rules-of-Interface-Design" class="headerlink" title="8 Golden Rules of Interface Design"></a>8 Golden Rules of Interface Design</h2><p>Ben Shneiderman（生于1947年8月21日）是美国马里兰大学人机交互实验室的计算机科学家和教授。他的作品与唐诺曼（Don Norman）和雅各布·尼尔森（Jakob Nielsen）等当代设计思想家相当。他的热门书《设计用户界面：有效的人机互动策略》揭示了他八个接口设计的黄金规则：</p>
 <ul>
@@ -333,7 +339,7 @@
     
     </summary>
     
-      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
+      <category term="IDF" scheme="https://yujiemeng.github.io/categories/IDF/"/>
     
     
       <category term="用户界面设计" scheme="https://yujiemeng.github.io/tags/%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
@@ -349,10 +355,12 @@
     <link href="https://yujiemeng.github.io/2017/06/18/10%E4%B8%AA%E5%9B%BD%E5%A4%96%E5%85%B3%E4%BA%8EUI%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%9C%80%E5%A5%BD%E7%9A%84%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/"/>
     <id>https://yujiemeng.github.io/2017/06/18/10个国外关于UI设计模式最好的网站推荐/</id>
     <published>2017-06-18T03:06:48.000Z</published>
-    <updated>2017-07-06T14:47:35.000Z</updated>
+    <updated>2017-07-07T08:30:21.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://public-media.interaction-design.org/images/ux-daily/57e2520fe0d67.jpg" alt=""></p>
-<h1 id="10个国外关于UI设计模式最好的网站推荐"><a href="#10个国外关于UI设计模式最好的网站推荐" class="headerlink" title="10个国外关于UI设计模式最好的网站推荐"></a>10个国外关于UI设计模式最好的网站推荐</h1><p>你不想花你的一生重新设计你的设计稿和创意吧？ 不，我们也不想这样。如果您正在寻找设计方案之前，已经在不同应用中使用过此设计方案;那么你应该已经有了设计模板在脑海中了。这是设计模式。</p>
+    <content type="html"><![CDATA[<div class="credit_author clearfix"><br>        <div class="photo"><br>            <img src="/images/invite-idf-logo.png" title="Interaction Design Foundation"><br>        </div><div class="bio"><div class="name">Interaction Design Foundation</div><p>Interaction Design Foundation是一个国际大型用户体验设计社区，旨在为设计从业者提供丰富的学习内容和设计知识。</p></div><br><div class="credit_link">这篇文章是转载Interaction Design Foundation社区：文章已在原社区获得作者的授权。<p><br><a href="https://www.interaction-design.org/literature/article/10-great-sites-for-ui-design-patterns?ep=yujie-meng" target="_blank">10 Great Sites for UI Design Patterns</a></p><br></div><br></div>
+
+
+<p>你不想花你的一生重新设计你的设计稿和创意吧？ 不，我们也不想这样。如果您正在寻找设计方案之前，已经在不同应用中使用过此设计方案;那么你应该已经有了设计模板在脑海中了。这是设计模式。</p>
 <p>我们已经列出了一些在网络上查找设计模式的最佳场所。现在，虽然所有这些资源都是免费的，但有些可能会要求您为一些额外资源支付;我们只是希望您知道我们不是任何其他网站的附属公司，也没有任何经济利益，您从任何其他网站购买任何东西都可以根据您自身的需要。</p>
 <h2 id="UI-–-Patterns"><a href="#UI-–-Patterns" class="headerlink" title="UI – Patterns"></a><a href="http://ui-patterns.com/?__hstc=246535899.1289f84a362c41b80e5e8776d3502129.1435233910711.1437552535063.1437559001623.52&amp;__hssc=246535899.8.1437559001623&amp;__hsfp=3799412980" target="_blank" rel="external">UI – Patterns</a></h2><p>UI Patterns之所以受到推荐，是因为在这个网站上，您能够找到自己喜欢的设计模型，如果对这些创意方案感觉到有用的话，可以对它们进行分组收藏。他们还有一些关于UI设计模式有趣的文章，可以帮助您扩展您在设计中使用模式的方式。</p>
 <p><img src="https://public-media.interaction-design.org/images/ux-daily/d8da1dbbb1c108abd33dc1d10f14c16b.png" alt="版权所有: UI Patterns. 版权条款使用: 正常" title="版权所有: UI Patterns. 版权条款使用: 正常"><br>版权所有: UI Patterns. 版权条款使用: 正常</p>
@@ -374,7 +382,7 @@
     
     </summary>
     
-      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
+      <category term="IDF" scheme="https://yujiemeng.github.io/categories/IDF/"/>
     
     
       <category term="User Interface (UI) Design" scheme="https://yujiemeng.github.io/tags/User-Interface-UI-Design/"/>
@@ -390,7 +398,7 @@
     <link href="https://yujiemeng.github.io/2016/11/18/16-11-18%20%E6%98%93%E4%BC%81%E7%A7%80%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/"/>
     <id>https://yujiemeng.github.io/2016/11/18/16-11-18 易企秀产品分析/</id>
     <published>2016-11-18T03:06:48.000Z</published>
-    <updated>2016-11-18T03:14:52.000Z</updated>
+    <updated>2017-07-07T08:27:35.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="易企秀-产品概述"><a href="#易企秀-产品概述" class="headerlink" title="易企秀 - 产品概述"></a>易企秀 - 产品概述</h2><blockquote>
 <p>场景制作营销工具：是一款针对<strong>移动互联网</strong>营销的手机幻灯片、H5场景应用制作工具，将原来只能在PC端制作和展示的各类复杂营销方案转移到更为便携和展示的手机上，用户随时随地根据自己的需要在PC端、手机端进行制作和展示，随时随地<strong>营销</strong>。</p>
@@ -504,7 +512,7 @@
     
     </summary>
     
-      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
+      <category term="chats" scheme="https://yujiemeng.github.io/categories/chats/"/>
     
     
       <category term="产品分析" scheme="https://yujiemeng.github.io/tags/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/"/>
@@ -520,7 +528,7 @@
     <link href="https://yujiemeng.github.io/2016/11/17/16-11-17%20%E4%BA%92%E8%81%94%E7%BD%91%E5%9B%A2%E9%98%9F%E5%A6%82%E4%BD%95%E5%8D%8F%E4%BD%9C/"/>
     <id>https://yujiemeng.github.io/2016/11/17/16-11-17 互联网团队如何协作/</id>
     <published>2016-11-17T03:00:07.000Z</published>
-    <updated>2016-11-17T05:13:25.000Z</updated>
+    <updated>2017-07-07T08:27:44.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>一个人的最重要的是注意力（精力），其次是时间，最后金钱。一个团队的所有成员的精力投资在所做的事情上，是要有回报和收益的。投资自己的精力，收获的对方的注意力（用心），所以能够建立一个信任</p>
@@ -550,6 +558,8 @@
     
     </summary>
     
+      <category term="chats" scheme="https://yujiemeng.github.io/categories/chats/"/>
+    
     
       <category term="管理" scheme="https://yujiemeng.github.io/tags/%E7%AE%A1%E7%90%86/"/>
     
@@ -568,7 +578,7 @@
     <link href="https://yujiemeng.github.io/2016/11/17/16-11-17%20%E6%89%A7%E8%A1%8C%E5%8A%9B/"/>
     <id>https://yujiemeng.github.io/2016/11/17/16-11-17 执行力/</id>
     <published>2016-11-17T01:29:49.000Z</published>
-    <updated>2016-11-17T01:32:43.000Z</updated>
+    <updated>2017-07-07T08:27:42.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>在抓管理的过程中，对于执行力的认识</p>
@@ -596,7 +606,7 @@
     
     </summary>
     
-      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
+      <category term="chats" scheme="https://yujiemeng.github.io/categories/chats/"/>
     
     
       <category term="管理" scheme="https://yujiemeng.github.io/tags/%E7%AE%A1%E7%90%86/"/>
@@ -610,7 +620,7 @@
     <link href="https://yujiemeng.github.io/2016/10/20/16-10-20%20%E6%B6%88%E8%B4%B9%E5%8D%87%E7%BA%A7/"/>
     <id>https://yujiemeng.github.io/2016/10/20/16-10-20 消费升级/</id>
     <published>2016-10-20T01:38:02.000Z</published>
-    <updated>2016-11-17T01:43:05.000Z</updated>
+    <updated>2017-07-07T08:27:45.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>罗胖的跨年演讲，最近才听到。也许是刚刚接触到他的所有内容和理念，才遇到了这个所谓的跨年演讲</p>
@@ -647,7 +657,7 @@
     
     </summary>
     
-      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
+      <category term="chats" scheme="https://yujiemeng.github.io/categories/chats/"/>
     
     
       <category term="消费升级" scheme="https://yujiemeng.github.io/tags/%E6%B6%88%E8%B4%B9%E5%8D%87%E7%BA%A7/"/>
@@ -665,7 +675,7 @@
     <link href="https://yujiemeng.github.io/2016/10/13/16-10-13%E6%80%9D%E8%80%83%E3%80%8A%E6%9D%8E%E7%AC%91%E6%9D%A5%20-%20%E9%80%9A%E5%BE%80%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF%E3%80%8B/"/>
     <id>https://yujiemeng.github.io/2016/10/13/16-10-13思考《李笑来 - 通往财富自由之路》/</id>
     <published>2016-10-13T07:30:08.000Z</published>
-    <updated>2016-10-13T07:30:27.000Z</updated>
+    <updated>2017-07-07T08:27:46.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="7-27-财富自由之路的缘由"><a href="#7-27-财富自由之路的缘由" class="headerlink" title="7.27 财富自由之路的缘由"></a>7.27 财富自由之路的缘由</h2><ol>
 <li>如果我们脑子里没有一个概念的时候，我们的脑子倾向于不去想那类事情</li>
@@ -735,7 +745,7 @@
     
     </summary>
     
-      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
+      <category term="chats" scheme="https://yujiemeng.github.io/categories/chats/"/>
     
     
       <category term="李笑来" scheme="https://yujiemeng.github.io/tags/%E6%9D%8E%E7%AC%91%E6%9D%A5/"/>
@@ -778,7 +788,7 @@
     <link href="https://yujiemeng.github.io/2016/10/10/16-09-20%20Growth%20Hacking%20%E4%B8%8E%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
     <id>https://yujiemeng.github.io/2016/10/10/16-09-20 Growth Hacking 与市场营销的区别是什么？/</id>
     <published>2016-10-10T09:50:08.000Z</published>
-    <updated>2016-10-13T07:18:45.000Z</updated>
+    <updated>2017-07-07T08:28:49.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="解剖营销"><a href="#解剖营销" class="headerlink" title="解剖营销"></a>解剖营销</h2><p>寒武纪时代物种大爆发，起因是大自然赋予生物两性繁殖的能力。就参考男女关系，来看看什么是营销，营销的概念边界在哪。</p>
 <blockquote>
@@ -806,7 +816,7 @@
     
     </summary>
     
-      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
+      <category term="chats" scheme="https://yujiemeng.github.io/categories/chats/"/>
     
     
       <category term="Growth" scheme="https://yujiemeng.github.io/tags/Growth/"/>
@@ -824,7 +834,7 @@
     <link href="https://yujiemeng.github.io/2016/09/17/16-09-23%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E4%B8%AD%E7%9A%84%E5%8D%87%E7%BA%A7%E4%B8%8D%E4%BA%8C%E6%B3%95%E5%88%99/"/>
     <id>https://yujiemeng.github.io/2016/09/17/16-09-23职业生涯中的升级不二法则/</id>
     <published>2016-09-17T09:23:33.000Z</published>
-    <updated>2016-09-17T09:29:11.000Z</updated>
+    <updated>2017-07-07T08:27:47.000Z</updated>
     
     <content type="html"><![CDATA[<p>读了了一位技术同行写的关于能力的<a href="http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2650994144&amp;idx=1&amp;sn=4b036c254e2b8bc25c939481d88a9f48&amp;chksm=bdbf0db38ac884a5242df5db6ffc254c624fb83946a81fa8d47ad03b032d4971e3b60f6028e8&amp;scene=0#rd" target="_blank" rel="external">文章</a>，文章主要针对技术同学的提升路线，给了几条建议。不过这篇文章对于职业规划也很有启发意义。本文对于这位同行提到的三条内容，谈谈自己的认识。 下文中，将此文章称为<strong>微文</strong>。</p>
 <h2 id="一个模型"><a href="#一个模型" class="headerlink" title="一个模型"></a>一个模型</h2><blockquote>
@@ -867,7 +877,7 @@
     
     </summary>
     
-      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
+      <category term="chats" scheme="https://yujiemeng.github.io/categories/chats/"/>
     
     
       <category term="职业生涯" scheme="https://yujiemeng.github.io/tags/%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF/"/>
@@ -883,7 +893,7 @@
     <link href="https://yujiemeng.github.io/2016/08/18/16-09-17%E5%BA%8F-%E3%80%8A%E5%A4%B1%E6%8E%A7%E3%80%8B%E8%83%BD%E7%BB%99%E4%BA%A7%E5%93%81%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
     <id>https://yujiemeng.github.io/2016/08/18/16-09-17序-《失控》能给产品带来什么？/</id>
     <published>2016-08-18T02:43:53.000Z</published>
-    <updated>2016-09-17T02:05:48.000Z</updated>
+    <updated>2017-07-07T08:27:48.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="为什么借鉴《失控》"><a href="#为什么借鉴《失控》" class="headerlink" title="为什么借鉴《失控》"></a>为什么借鉴《失控》</h2><h3 id="人类社会在借鉴自然"><a href="#人类社会在借鉴自然" class="headerlink" title="人类社会在借鉴自然"></a>人类社会在借鉴自然</h3><p>《失控》一书，在第一张“人造与天生”中，为我们解读为什么要去研究大自然，为什么去仿生物系统。“人造与天生的联姻..技术人员归纳总结了生命体河机器之间的逻辑规律，并一一应用于建造极度复杂的系统.. 现有技术的局限性迫使和生命体与机械联姻”。</p>
 <p>看看咱们的人类社会的发展历程：从原始社会开始学习狩猎，到农耕社会的种植技术，再到上个世纪的工业革命解放劳动力。人类从偶然获得技术到主动归纳总结技术的过程，就是发现大自然向我们敞开她的心智，让我们学习她内在的逻辑。</p>
@@ -906,7 +916,7 @@
     
     </summary>
     
-      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
+      <category term="chats" scheme="https://yujiemeng.github.io/categories/chats/"/>
     
     
       <category term="产品" scheme="https://yujiemeng.github.io/tags/%E4%BA%A7%E5%93%81/"/>
@@ -924,7 +934,7 @@
     <link href="https://yujiemeng.github.io/2016/08/05/16-09-17%E4%BA%A7%E5%93%81%E4%B8%8E%E8%BF%90%E8%90%A5%E8%83%BD%E5%A4%9F%E4%BA%A7%E7%94%9F%E7%9A%84%E7%81%AB%E8%8A%B1/"/>
     <id>https://yujiemeng.github.io/2016/08/05/16-09-17产品与运营能够产生的火花/</id>
     <published>2016-08-05T03:06:50.000Z</published>
-    <updated>2016-09-17T09:26:11.000Z</updated>
+    <updated>2017-07-07T08:27:49.000Z</updated>
     
     <content type="html"><![CDATA[<p>木桶原理提现在下面这个产品上，着实可行。想了解如何避免在产品设计上，考虑运营场景，我想这个案例能够带来很多的启发。</p>
 <h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>一个工业领域设计大赛的报名和评审的网站。主办方为一个地方政府背景的组织。产品开发团队是以合作的方式来完成网站的落地（我所在团队）</p>
@@ -963,7 +973,7 @@
     
     </summary>
     
-      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
+      <category term="chats" scheme="https://yujiemeng.github.io/categories/chats/"/>
     
     
       <category term="内容运营" scheme="https://yujiemeng.github.io/tags/%E5%86%85%E5%AE%B9%E8%BF%90%E8%90%A5/"/>
@@ -979,7 +989,7 @@
     <link href="https://yujiemeng.github.io/2016/08/02/16-07-27%E6%80%8E%E6%A0%B7%E7%9C%8B%E5%BE%85Pokemon-Go%E7%9A%84%E5%95%86%E4%B8%9A%E5%8C%96%E5%B0%9D%E8%AF%95-%EF%BC%9F/"/>
     <id>https://yujiemeng.github.io/2016/08/02/16-07-27怎样看待Pokemon-Go的商业化尝试-？/</id>
     <published>2016-08-02T13:24:49.000Z</published>
-    <updated>2016-09-17T01:54:02.000Z</updated>
+    <updated>2017-07-07T08:27:50.000Z</updated>
     
     <content type="html"><![CDATA[<p>引用社区中的问题，</p>
 <blockquote>
@@ -1000,7 +1010,7 @@
     
     </summary>
     
-      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
+      <category term="chats" scheme="https://yujiemeng.github.io/categories/chats/"/>
     
     
       <category term="AR" scheme="https://yujiemeng.github.io/tags/AR/"/>
@@ -1014,7 +1024,7 @@
     <link href="https://yujiemeng.github.io/2016/07/31/16-09-17%E4%BA%BA%E6%A0%BC%E9%AD%85%E5%8A%9B%E4%B8%8E%E5%9B%A2%E9%98%9F%E7%AE%A1%E7%90%86/"/>
     <id>https://yujiemeng.github.io/2016/07/31/16-09-17人格魅力与团队管理/</id>
     <published>2016-07-31T09:50:08.000Z</published>
-    <updated>2016-09-17T02:05:48.000Z</updated>
+    <updated>2017-07-07T08:27:51.000Z</updated>
     
     <content type="html"><![CDATA[<p>团队管理有很多的方法，有一个朋友提出了一个问题：</p>
 <blockquote>
@@ -1049,7 +1059,7 @@
     
     </summary>
     
-      <category term="articals" scheme="https://yujiemeng.github.io/categories/articals/"/>
+      <category term="chats" scheme="https://yujiemeng.github.io/categories/chats/"/>
     
     
       <category term="管理" scheme="https://yujiemeng.github.io/tags/%E7%AE%A1%E7%90%86/"/>
