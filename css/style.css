@@ -685,6 +685,8 @@ Footer
   background-repeat: no-repeat;
   background-size: 100%;
   text-indent: -999em; }
+  .icon.icon-linkedin {
+    background-image: url("../images/linkedin.svg"); }
   .icon.icon-github {
     background-image: url("../images/github.svg"); }
   .icon.icon-weibo {
@@ -1031,10 +1033,22 @@ pre {
 @media screen and (max-width: 767px) {
   .logo a img {
     height: 36px; }
+  .post {
+    padding-top: 0;
+    padding-bottom: 0; }
   .site-content {
     min-height: auto; }
     .site-content .content-area {
       padding-top: 0; }
+  .odd {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background: #f5f5f5;
+    position: relative; }
+  .attachment-post-thumbnail {
+    margin: 10px 0 10px 0;
+    transition: opacity 0.7s;
+    display: block; }
   .site-header {
     position: relative; }
     .site-header .navbar {
@@ -1070,8 +1084,8 @@ pre {
 
 @media screen and (max-width: 320px) {
   .container {
-    padding-left: 20px;
-    padding-right: 20px; }
+    padding-left: 10px;
+    padding-right: 10px; }
   .site-header,
   .page .site-header,
   .home.paged .site-header {
