@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yujiemeng.github.io/"/>
-  <updated>2017-07-30T14:41:26.000Z</updated>
+  <updated>2017-08-06T07:10:58.000Z</updated>
   <id>https://yujiemeng.github.io/</id>
   
   <author>
@@ -14,6 +14,89 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>认知工效学 - 学习HCI必须知道的几个重要概念(1)</title>
+    <link href="https://yujiemeng.github.io/2017/08/04/2017-08-04/"/>
+    <id>https://yujiemeng.github.io/2017/08/04/2017-08-04/</id>
+    <published>2017-08-04T08:47:48.000Z</published>
+    <updated>2017-08-06T07:10:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="credit_author"><br>        <div class="photo"><br>            <img src="/images/invite-idf-logo.png" title="Interaction Design Foundation"><br>        </div><div class="bio"><div class="name">Interaction Design Foundation</div><p>Interaction Design Foundation是一个国际大型用户体验设计社区，旨在为设计从业者提供丰富的学习内容和设计知识。</p></div><br><div class="credit_link">这篇文章是转载Interaction Design Foundation社区：文章已在原社区获得作者的授权。欢迎转载，请注明本文当前的链接出处<p><br><a href="https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/cognitive-ergonomics?ep=yujie-meng" target="_blank">The Glossary of Human Computer Interaction - 1. Cognitive ergonomics</a></p><br><p> 作者： Bill Papantoniou 翻译：Myles</p><br></div><br></div>
+
+<p>认知工效学（Cognitive ergonomics，下文简称CE），也被称为认知工程，是一门工程学科，它是支持认知有关的工作。</p>
+<p>干预行为的目的可以是设计一个人工制品(认知设计(Dowell和1998年))，一个培训项目，或者重新设计。由于任何人类活动——甚至是所谓的“体力劳动”——都涉及到认知部分，认知人体工程学可以用来分析任何有目的的人类任务。然而此后，认知工效学主要关注如下几项工作活动:</p>
+<ul>
+<li>强调认知的组成部分(例如，计算，决策)</li>
+<li>对安全性要求苛刻的环境</li>
+<li>在复杂多变的环境中进行操作(例如，任务不能预先确定)</li>
+</ul>
+<p>第一个使用CE的领域是核电站、空中交通管制和麻醉。近年来，许多研究都在其他“软”领域进行，如银行业、办公室工作和休闲活动。<br>作为研究领域的一个分支，CE与人机交互(HCI)、计算机辅助协作工作(CSCW)、人类可靠性分析(HRA)、安全工程、风险管理等领域相重叠。CE与HCI的区别主要是分析将整个工作系统作为一个整体，而不是用户与计算机的交互，以及传统HCI经常避免处理或隐藏在“上下文”标签之下的其他因素(组织、历史等)。</p>
+<p>在CE的核心是域的概念：域是工作系统必须操作的更大环境，并且为工作系统提供了约束和机会。该“域”影响了方法的应用，因为系统组件之间的耦合程度、自上而下的因果关系的程度以及决策过程中人类意图的程度决定了所使用模型的有效性。<br>CE还研究了工人在与工作系统(例如注意力、知觉错误、策略、认知负荷)的交互中所具有的能力和局限性，特别是他用来实现目标的认知产物，以及他与其他参与者的合作。</p>
+<h2 id="认知工效学的模型"><a href="#认知工效学的模型" class="headerlink" title="认知工效学的模型"></a>认知工效学的模型</h2><p>因此，人们可能会说，每一项认知工效学研究都有两种潜在的理论(隐藏的或明确的)：一种关于“域“的理论和一种关于人类认知的理论。</p>
+<p>关于域的分析和建模，CE使用了从系统理论、人种学、人类认知学等方面借鉴的方法。关于域有两种方法。第一个方面主要是基于书面文件和蓝图，反映了该域的结构方面——例如拉斯穆森，Pejtersen等人在1994年的学术报告。第二个方面主要精力是研究人们在工作中动态构建的域的表现形式，例如engestrm和米尔顿在1996的学术报告。</p>
+<p>传统上，CE使用了“人类信息处理”的认知模型(威肯斯，1992)，它通过计算机隐喻来模拟人类的认知。尽管这种方法是有成效的，但它也有局限性，因为它没有解决诸如具体化、情感、意向性等问题，为了克服这些限制，有一些方法是基于其他框架的，比如Gibson的”生态心理学“和”可负担性“的概念(Gibson 1979;拉斯穆森，Winograd等，1994)，Heidegger的”现象学“(Heidegger和弗洛雷斯1987;杜瑞什2001)，”活动理论“(Nardi 1996)，”自生理论“(Theureau，2003)。每一种方法都提供了一种重新审视CE与当前研究活动的关系的方法。”生态心理学“和”现象学“(Merleau-Ponty，1958年)关注的是认知的具体表现，因为它们在技巧操作下显现(Gallagher，2005)，以及超越主体边界的认知扩展(Hutchins 1995)。”活动理论“揭示了活动的历史特征，并提供了一个工具来研究人、工作和领域之间的相互作用。这里的困难在于实现一种平衡的方式去推进使用各个框架理论，而不是着重使用某一个种理论框架(例如，忽略信息处理方面的纯粹的历史方法，或者忽略了工作中的人种方面的信息处理方法)。</p>
+<h2 id="方法与理论的使用"><a href="#方法与理论的使用" class="headerlink" title="方法与理论的使用"></a>方法与理论的使用</h2><p>在认知工效学中，使用的方法与理论包括：</p>
+<h4 id="分等级的任务分析方法-Kirwan-and-Ainsworth，1992"><a href="#分等级的任务分析方法-Kirwan-and-Ainsworth，1992" class="headerlink" title="分等级的任务分析方法(Kirwan and Ainsworth，1992)"></a>分等级的任务分析方法(Kirwan and Ainsworth，1992)</h4><ul>
+<li>Goals&amp;Means分析</li>
+<li>事件分析</li>
+<li>根源分析</li>
+<li>网络分析及其他</li>
+<li>群组任务分析</li>
+</ul>
+<h4 id="认知任务分析（Hollnagel，2003）"><a href="#认知任务分析（Hollnagel，2003）" class="headerlink" title="认知任务分析（Hollnagel，2003）"></a>认知任务分析（Hollnagel，2003）</h4><ul>
+<li>认知面试</li>
+<li>口头协议的分析</li>
+<li>多维定标</li>
+<li>人种志学的分析</li>
+<li>计算机模拟人类的表现(认知模拟)</li>
+<li>人类的误差分析</li>
+<li>性能迁移分析</li>
+</ul>
+<h4 id="分布式认知（Hutchins，1995）"><a href="#分布式认知（Hutchins，1995）" class="headerlink" title="分布式认知（Hutchins，1995）"></a>分布式认知（Hutchins，1995）</h4><h4 id="活动理论（Nardi，1996）"><a href="#活动理论（Nardi，1996）" class="headerlink" title="活动理论（Nardi，1996）"></a>活动理论（Nardi，1996）</h4><h4 id="行动任务分析过程-Theureau，2003"><a href="#行动任务分析过程-Theureau，2003" class="headerlink" title="行动任务分析过程 (Theureau，2003)"></a>行动任务分析过程 (Theureau，2003)</h4><h4 id="联合认知系统（Hollnagel-and-Woods，2005）"><a href="#联合认知系统（Hollnagel-and-Woods，2005）" class="headerlink" title="联合认知系统（Hollnagel and Woods，2005）"></a>联合认知系统（Hollnagel and Woods，2005）</h4><h2 id="推荐阅读"><a href="#推荐阅读" class="headerlink" title="推荐阅读"></a>推荐阅读</h2><p>认知工效学包括了不同领域的学科，所以没有一本权威性的书籍，甚至没有通用术语，尽管在标准化方面做了很多的努力（Dowell and Long，1998）</p>
+<p>最为接近认知工效学的教科书是《认知工作分析》（”Cognitive Work Analysis”，Vicente，1999）。这本书是对Rasmussen的认知系统工程框架很好的普及。最新的工作进展包括两本书，由E.Hollnagel和D.Woods (Hollnagel and Woods 2005; Woods and Hollnagel 2006)编写。</p>
+<p>相关的网站有：</p>
+<ul>
+<li>David Woods的网站<a href="http://csel.org.ohio-state.edu/" target="_blank" rel="external">Cognitive Systems Engineering Laboratory Articles</a> ，David是这个领域中最出色的研究人员之一.</li>
+<li>法国研究学者Jacques Theureau的网站<a href="http://www.coursdaction.net/" target="_blank" rel="external">coursdaction.net</a> ，不过这个网站里的文章真是读起来很艰难！</li>
+</ul>
+<blockquote>
+<p> <strong>活动理论</strong>：强调了活动在知识技能内化过程中的桥梁性作用。活动构成了心理特别是人的意识发生、发展的基础。而人的活动具有对象性和社会性。</p>
+</blockquote>
+<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><ul>
+<li>Dourish, Paul (2001): Where the Action Is: The Foundations of Embodied Interaction, MIT Press,</li>
+<li>Gibson, James J. (1979): The Ecological Approach to Visual Perception, ,</li>
+<li>Hutchins, Edwin (1995): Cognition in the wild, MIT Press,</li>
+<li>Vicente, Kim J. (1999): Cognitive Work Analysis: Toward Safe, Productive, and Healthy Computer-Based Work, ,</li>
+<li>Hollands, Justin, Wickens, Christopher D. (1999): Engineering Psychology and Human Performance, Prentice Hall,</li>
+<li>Winograd, Terry, Flores, Fernando (1987): Understanding Computers and Cognition: A New Foundation for Design, Addison-Wesley Publishing,</li>
+<li>Dowell, John, Long, John (1998): Conception of the Cognitive Engineering Design Problem. In Ergonomics, 41 (2) pp. 126-139.</li>
+<li>(1996): Cognition and Communication at Work, Cambridge University Press,</li>
+<li>Gallagher, Shaun (2005): How the Body Shapes the Mind, Clarendon Press,</li>
+<li>Theureau, Jacques (2003): Handbook of Cognitive Task Design, Theureau, Jacques (eds.), ,</li>
+<li>(2005): Joint Cognitive Systems. Foundations of Cognitive Systems Engineering, CRC Press,</li>
+<li>Merleau-Ponty, Maurice (1958): Phenomenology of Perception, Routledge,</li>
+<li>(1996): Context and Consciousness, MIT Press,</li>
+<li>Theureau, Jacques (2003): Course of Action Analysis &amp; Course of Action Centered Design. In: Theureau, Jacques (eds). “Handbook of Cognitive Task Design” .</li>
+<li>Rasmussen, Jens, Pejtersen, Annelise Mark, Goldstein, L. P. (1994): Cognitive Systems Engineering, John Wiley and Sons,</li>
+<li>(1992): A Guide to Task Analysis, Taylor and Francis,</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      认知工效学（Cognitive ergonomics，下文简称CE），也被称为认知工程，是一门工程学科，它是支持认知有关的工作
+    
+    </summary>
+    
+      <category term="IDF" scheme="https://yujiemeng.github.io/categories/IDF/"/>
+    
+    
+      <category term="Cognitive Ergonomics" scheme="https://yujiemeng.github.io/tags/Cognitive-Ergonomics/"/>
+    
+      <category term="Human Computer Interaction" scheme="https://yujiemeng.github.io/tags/Human-Computer-Interaction/"/>
+    
+  </entry>
   
   <entry>
     <title>“设计挪用”的7个原则</title>
@@ -1209,55 +1292,6 @@
       <category term="AR" scheme="https://yujiemeng.github.io/tags/AR/"/>
     
       <category term="移动营销" scheme="https://yujiemeng.github.io/tags/%E7%A7%BB%E5%8A%A8%E8%90%A5%E9%94%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>人格魅力与团队管理</title>
-    <link href="https://yujiemeng.github.io/2016/07/31/16-09-17%E4%BA%BA%E6%A0%BC%E9%AD%85%E5%8A%9B%E4%B8%8E%E5%9B%A2%E9%98%9F%E7%AE%A1%E7%90%86/"/>
-    <id>https://yujiemeng.github.io/2016/07/31/16-09-17人格魅力与团队管理/</id>
-    <published>2016-07-31T09:50:08.000Z</published>
-    <updated>2017-07-07T08:27:51.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>团队管理有很多的方法，有一个朋友提出了一个问题：</p>
-<blockquote>
-<p>什么叫人格魅力？如何才能凝聚团队？</p>
-</blockquote>
-<p>Myles在工作中，对于人格魅力与管理的相互影响颇有感受。在读《架构的未来》这本书的时候，一个标准的公司人员角色架构，能够使团队的任务明确，完成工作任务有很好的保证。但这仅仅是一个客观的人员架构管理的理论，并没有考虑人的感性因素在里面。趁此问题，简要整理<code>人格化魅力在团队管理的作用和如何产生影响</code></p>
-<p>####什么叫人格化魅力？</p>
-<p>这让我想起了，在品牌管理上看到过“人格化”这个词。那么借鉴品牌的人格化，来解释团队管理的人格化魅力，有一定的参考性。 </p>
-<p>首先品牌的人格化是什么？是指将品牌在塑造的过程中，具备了只有人才具备的情感，使得品牌能够更加的真是，可被信赖。品牌一旦具有了人格化的魅力，其能够吸引的粉丝变能够与品牌建立一种情感连接，并且表现不跟随的移情特点。</p>
-<p>回到问题，应该是想问人格化魅力在管理上如何起到作用。那么参考品牌人格化的上述总结：</p>
-<ol>
-<li>赋予管理过程一种情感</li>
-<li>管理的方式可被信赖</li>
-<li>使被管理者与管理建立情感连接（所谓的融入到企业文化）</li>
-<li>不会因为管理问题，轻易离开团队</li>
-</ol>
-<p>===</p>
-<hr>
-<p>####如何凝聚团队?</p>
-<p>一个团队，不能被当做无知的社会化群体来看待。每一个团队成员，都有自己独立的思维和诉求。所以个人认为，满足每一个成员的诉求是一个基本的前提。在满足基本诉求至上，就是建立每一个队员的心理期望。中间辅以人格化的管理来做润滑和调剂。</p>
-<ol>
-<li>满足基本诉求：这自然不用说，视队员能力，合理分配其应该所得的利益。利益分配包括其薪水、分红、奖励等，但此目的并不是为了控制团队成员，而是整个团队对每一个队员的价值和劳动的认可，是建立相互尊重，相互信任的前提。</li>
-<li>建立心理期望：开始说过，每一个团队成员都是具备独立思维的个体，必然就不会缺少其所追求的价值观。为团队建立宏观的项目愿景，并且将宏观的愿景与个人的价值追求做到统一。比如一位新入职场的队员，在其当下阶段追求的是能力的提升，则需要将项目能够帮助其成长的愿景传达给他。当一位资深的队员加入时，其追求的是个人能力的展示或者个人成就的建立，那么则需要将项目为其能够施展能力的可能性展示给他。当然建立团队期望时，会对应着各种不同的场景和个人情况，这就需要团队能够及时得与每个队员进行沟通交流。</li>
-<li>人格化的管理：上面阐释了人格化的管理的特点，那么用人格化管理来做润滑和调和剂，就能使得团队成员有足够的耐心留在团队，并且通过建立信任与情感，使得满足诉求和建立心理期望的过程更加的顺利和高效。</li>
-</ol>
-<p>以上</p>
-]]></content>
-    
-    <summary type="html">
-    
-      人格化 | 团队 | 管理
-    
-    </summary>
-    
-      <category term="chats" scheme="https://yujiemeng.github.io/categories/chats/"/>
-    
-    
-      <category term="管理" scheme="https://yujiemeng.github.io/tags/%E7%AE%A1%E7%90%86/"/>
-    
-      <category term="团队" scheme="https://yujiemeng.github.io/tags/%E5%9B%A2%E9%98%9F/"/>
     
   </entry>
   
