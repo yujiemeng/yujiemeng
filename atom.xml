@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yujiemeng.github.io/"/>
-  <updated>2017-08-11T08:56:20.000Z</updated>
+  <updated>2017-08-20T13:14:17.000Z</updated>
   <id>https://yujiemeng.github.io/</id>
   
   <author>
@@ -14,6 +14,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>情景反馈 - 学习HCI必须知道的几个重要概念(2)</title>
+    <link href="https://yujiemeng.github.io/2017/08/20/2017-08-13/"/>
+    <id>https://yujiemeng.github.io/2017/08/20/2017-08-13/</id>
+    <published>2017-08-20T12:18:48.000Z</published>
+    <updated>2017-08-20T13:14:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="credit_author"><br>        <div class="photo"><br>            <img src="/images/invite-idf-logo.png" title="Interaction Design Foundation"><br>        </div><div class="bio"><div class="name">Interaction Design Foundation</div><p>Interaction Design Foundation是一个国际大型用户体验设计社区，旨在为设计从业者提供丰富的学习内容和设计知识。</p></div><br><div class="credit_link">这篇文章是转载Interaction Design Foundation社区：文章已在原社区获得作者的授权。<p><br><a href="https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/backtalk-of-a-situation-or-situational-feedback?ep=yujie-meng" target="_blank">Backtalk of a Situation (or Situational Feedback)</a></p><br><p> 欢迎转载，请注明本文当前的链接出处</p><br><p>  翻译：Myles</p><br></div><br></div>
+
+<p>把想法、创意和计划明确地写下来，或者开发一种人工制品，通过这些方法，我们为自己创造了与自己对话的情景。例如，建筑师在工作中广泛地使用，当画草图时，不期望的设计模式将会出现，这些模式会被集成到原有的设计模式中，也可能会在图中被详细制作。因此，画草图的作用不仅是画目标物体的有意识行为，也是画图者与材料和相关情境约束之间的相互影响。Herbert Simon对一位石油画家作品的描述说明了这一点:</p>
+<p>“油画上的每多出一个新颜料点都创造出了一种模式，为画家提供了新的灵感来源。绘画过程是画家与画布之间的循环互动过程，在此过程中，当前的画作目标会产生新的绘画技法的应用，而逐渐变化的模式则意味着产生新的目标。”(Simon,1996)</p>
+<p>情境反馈是创造过程的重要组成部分，用Schön的话来说，设计是一种“与情境中的各元素之间的反思对话”(schn，1983)。这表明，诸如计算机程序、油画和一些手工制品，都不是设计者意图的简单投影。相反，它们是设计师的意图与材料和情境约束的产物。</p>
+<p>请注意，所谓的“情境对话”（backtalk of a situation）也被称为“情境反馈”（situational feedback）。</p>
+<h4 id="学习HCI必须知道的几个重要概念系列文章："><a href="#学习HCI必须知道的几个重要概念系列文章：" class="headerlink" title="学习HCI必须知道的几个重要概念系列文章："></a>学习HCI必须知道的几个重要概念系列文章：</h4><p>1.“<a href="http://www.hci-geek.com/2017/08/04/2017-08-04/" target="_blank" rel="external">认知工效学 - 学习HCI必须知道的几个重要概念(1)</a>”</p>
+]]></content>
+    
+    <summary type="html">
+    
+      把想法、创意和计划明确地写下来，或者开发一种人工制品，通过这些方法，我们为自己创造了与自己对话的情景。
+    
+    </summary>
+    
+      <category term="IDF" scheme="https://yujiemeng.github.io/categories/IDF/"/>
+    
+    
+      <category term="情景" scheme="https://yujiemeng.github.io/tags/%E6%83%85%E6%99%AF/"/>
+    
+      <category term="Simon" scheme="https://yujiemeng.github.io/tags/Simon/"/>
+    
+      <category term="反馈" scheme="https://yujiemeng.github.io/tags/%E5%8F%8D%E9%A6%88/"/>
+    
+  </entry>
   
   <entry>
     <title>UI设计10个必须遵循的法则</title>
@@ -1287,61 +1320,6 @@
       <category term="社会" scheme="https://yujiemeng.github.io/tags/%E7%A4%BE%E4%BC%9A/"/>
     
       <category term="自然" scheme="https://yujiemeng.github.io/tags/%E8%87%AA%E7%84%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>产品与运营能够产生的火花</title>
-    <link href="https://yujiemeng.github.io/2016/08/05/16-09-17%E4%BA%A7%E5%93%81%E4%B8%8E%E8%BF%90%E8%90%A5%E8%83%BD%E5%A4%9F%E4%BA%A7%E7%94%9F%E7%9A%84%E7%81%AB%E8%8A%B1/"/>
-    <id>https://yujiemeng.github.io/2016/08/05/16-09-17产品与运营能够产生的火花/</id>
-    <published>2016-08-05T03:06:50.000Z</published>
-    <updated>2017-07-07T08:27:49.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>木桶原理提现在下面这个产品上，着实可行。想了解如何避免在产品设计上，考虑运营场景，我想这个案例能够带来很多的启发。</p>
-<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>一个工业领域设计大赛的报名和评审的网站。主办方为一个地方政府背景的组织。产品开发团队是以合作的方式来完成网站的落地（我所在团队）</p>
-<h2 id="起初开发情况"><a href="#起初开发情况" class="headerlink" title="起初开发情况"></a>起初开发情况</h2><p>为了满足市场部门的需求，需要在1-2周内将设计大赛的网站上线。<br>此网站的信息结构为：</p>
-<ol>
-<li>首页展示比赛详情，同时在首页提供导航，将各个功能模块入口展示在最外层</li>
-<li>第二层页面：是设计参与者的作品简介的列表，能够对全部参与者的作品有大体的认识；同时第二层页面还有上传参赛作品的页面</li>
-<li>第三层页面：是每一个设计参与者的作品详情，同时提供游客与设计者互动的评论和点赞的交互接口</li>
-<li>用户数据中心：由于此比赛作为子模块挂靠在总站上（也有引流需要），所以数据中心放置在总站的中，具备查看信息和编辑修改作品的功能和权限；运营管理员在此页面上具备特殊权限，能够对用户参赛作品进行审核</li>
-</ol>
-<h3 id="上线后第一次迭代的功能"><a href="#上线后第一次迭代的功能" class="headerlink" title="上线后第一次迭代的功能"></a>上线后第一次迭代的功能</h3><p><strong>主要为</strong>：参赛者是否能够修改自己的作品。包括修改的时间截止点，修改重新提交后运营管理者的审核。<br><strong>需求详细为</strong>：参赛者能够随时修改自己的作品；修改的时间截止点为比赛开始的时间；重新提交后，需要后台运营管理者的审核</p>
-<p><strong>对需求的分析</strong>：不赞同参赛者随时修改自己的作品。参考线下的用户场景，用户在看到比赛信息后，将自己的作品提交到主办方那里，则参赛内容不能随意修改。这里重要强调这个报名环节的权威性，不考虑互联网能够提供的方便性。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">参赛用户的需求：</div><div class="line">	⁃	报名过程，可修改的方便性</div><div class="line">	⁃	上传作品时，造成错误所承担的风险性</div></pre></td></tr></table></figure></p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">主办方的需求：</div><div class="line">	⁃	要求报名参与者足够认真正视比赛，因为这涉及到用户作品的质量</div><div class="line">	⁃	最低人力成本对用户作品审核</div></pre></td></tr></table></figure>
-<p>实际的运营场景：之前网站上线时间紧张，且运营人员与产品开发团队分隔两地，所以确实没有沟通，没有了解到真实运营需求。真实的需求为：用户上传作品后，运营人员判断内容是否为垃圾内容，则最后再进行作品的投票和评审过程。这中间，我们将运营的工作内容与评审的内容没有区分清楚，且市场方面急切催促，最后开发团队就直接将需求落地。</p>
-<h2 id="后面又遇到的问题"><a href="#后面又遇到的问题" class="headerlink" title="后面又遇到的问题"></a>后面又遇到的问题</h2><ol>
-<li>比赛内容运营没有严格的审核标准，用户上传的内容图片质量差，文字介绍简单</li>
-<li>整体内容调性上没有给准备参赛的用户一种“内容质量”的要求</li>
-<li>参赛作品的详情介绍页面，内容单调，图片质量粗糙</li>
-</ol>
-<p>不可否认，由于高看了运营人员的运营能力，导致整体产品视觉上和内容上无法达到要求。导致比赛页面很难再转向正规。</p>
-<p>最后总结几点经验：</p>
-<ol>
-<li>产品上线前，与运营人员充分沟通其运营过程，定下书面运营指标，并提供给运营人员可供参考内容</li>
-<li>运管人员必须严格执行内容质量的标准，不能过度追求用户数和内容数，而忽视了内容质量</li>
-<li>对用户上传图片和时，给出一定的要求（由于是设计比赛）。并且提供一份参考案例，并提示参与者被拒绝的可能性</li>
-<li>在作品介绍时，上传一张图+一段有字数限制的介绍文字，通过后台拼接数据的方式，展示在前端，能够避免用户参与者无法编辑出丰富的图文。</li>
-</ol>
-<blockquote>
-<p>珍惜一位优秀的内容运营人</p>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      内容运营 | 需求分析 | 编辑权限 | 运营经验
-    
-    </summary>
-    
-      <category term="chats" scheme="https://yujiemeng.github.io/categories/chats/"/>
-    
-    
-      <category term="内容运营" scheme="https://yujiemeng.github.io/tags/%E5%86%85%E5%AE%B9%E8%BF%90%E8%90%A5/"/>
-    
-      <category term="产品设计" scheme="https://yujiemeng.github.io/tags/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/"/>
-    
-      <category term="需求分析" scheme="https://yujiemeng.github.io/tags/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90/"/>
     
   </entry>
   
