@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<!-- Head tag -->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <!--Description-->
+  
+  <meta name="description" content="从这一道微软的面试题中，发现如何做产品的策略设计">
+  
+
+  <!--Author-->
+  
+  <meta name="author" content="伦勃朗(Myles)">
+  
+
+  <!--Open Graph Title-->
+  
+      <meta property="og:title" content="从一道传说中的微软面试题，看策略产品设计"/>
+  
+  <!--Open Graph Description-->
+  
+      <meta property="og:description" content="从这一道微软的面试题中，发现如何做产品的策略设计" />
+  
+  <!--Open Graph Site Name-->
+  <meta property="og:site_name" content="HCI极客:人机交互学习社区"/>
+  <!--Type page-->
+  
+      <meta property="og:type" content="article" />
+  
+  <!--Page Cover-->
+  
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <!-- Title -->
+  
+  <title>从一道传说中的微软面试题，看策略产品设计 - HCI极客:人机交互学习社区</title>
+
+
+  <link rel="shortcut icon" href="http://obb8a121r.bkt.clouddn.com/M-fav.png">
+
+  <!-- Custom CSS/Sass -->
+  <link rel="stylesheet" href="../../../../css/style.css">
+<link rel="stylesheet" href="../../../../css/credit_link.css">
+ 
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?1d81bc06c92d28c976083c59c06d7a79";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</head>
+
+
+<body>
+
+  <!-- Nav -->
+  <header class="site-header">
+  <div class="header-inside">
+    <div class="logo">
+      <a href="/" rel="home">
+        
+        <img src="http://obb8a121r.bkt.clouddn.com/M-logo.svg" alt="HCI极客:人机交互学习社区" height="60">
+        
+      </a>
+    </div>
+    <!-- Navigation -->
+    <nav class="navbar">
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse">
+        <ul class="navbar-nav">
+          
+          
+            <li>
+              <a href="../../../../.">
+                
+                  首页
+                
+              </a>
+            </li>
+          
+            <li>
+              <a href="../../../.././categories/IDF">
+                
+                  IDF
+                
+              </a>
+            </li>
+          
+            <li>
+              <a href="../../../.././categories/chats">
+                
+                  产品
+                
+              </a>
+            </li>
+          
+            <li>
+              <a href="../../../../about">
+                
+                  关于
+                
+              </a>
+            </li>
+          
+            <li>
+              <a href="../../../../atom.xml">
+                
+                  RSS
+                
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+    </nav>
+    <div class="button-wrap">
+      <button class="menu-toggle">Primary Menu</button>
+    </div>
+  </div>
+</header>
+
+
+  <!-- Main Content -->
+  
+
+<div class="content-area">
+  <div class="post">
+    <!-- Post Content -->
+    <div class="container">
+      <article>
+        <!-- Title date & tags -->
+        <div class="post-header">
+          <h1 class="entry-title">
+            从一道传说中的微软面试题，看策略产品设计
+            
+          </h1>
+          <p class="posted-on">
+          2017-09-22
+          </p>
+          <div class="tags-links">
+            
+              
+                <a href="/tags/策略产品/" rel="tag">
+                  策略产品
+                </a>
+              
+                <a href="/tags/五海盗分金币/" rel="tag">
+                  五海盗分金币
+                </a>
+              
+                <a href="/tags/纳什均衡/" rel="tag">
+                  纳什均衡
+                </a>
+              
+            
+          </div>
+        </div>
+        <!-- Post Main Content -->
+        <div class="entry-content">
+         <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>在一个群里看见了一道所谓的微软面试题目，传闻2天才能解答出来。在解答的过程中，发现这个题目极其适合进行产品方法论的讨论，尤其是对题目中的用户了解的不够清楚，则将会设计失败。</p>
+<p>这是一个关于纳什均衡的博弈论问题，通过解答这个问题，我们探一探有哪些产品方法论在里面。</p>
+<h2 id="题目如下"><a href="#题目如下" class="headerlink" title="题目如下"></a>题目如下</h2><blockquote>
+<p> “5名超级聪明、求生欲和杀人欲很强海盗打算瓜分抢来的100块金币。他们设定了一个看似民主的方式进行分配：首先抽签决定各人的号码（1，2，3，4，5），然后由1号提出分配方案，5人进行表决，超过半数同意方案才被通过，否则他将被扔入大海喂鲨鱼，1号死后，由2号提方案，4人表决，超过半数同意方案通过，否则2号同样被扔入大海，依次类推。那么抽到几号签最好呢，最多拿到多少枚金币。” </p>
+</blockquote>
+<p>你可以先尝试着解答一下这个博弈论的题目，设计几个分配方案，看看是否会有解题的快感。:D</p>
+<h2 id="题目分解"><a href="#题目分解" class="headerlink" title="题目分解"></a>题目分解</h2><p>将解题过程，看作是产品设计的几个常见的方向：<strong>用户肖像</strong>、<strong>用户需求</strong>、<strong>产品方案</strong>、<strong>用户场景</strong>。</p>
+<h3 id="1、用户肖像和用户需求"><a href="#1、用户肖像和用户需求" class="headerlink" title="1、用户肖像和用户需求"></a>1、用户肖像和用户需求</h3><blockquote>
+<p> “5名超级聪明、求生欲和杀人欲很强海盗打算瓜分抢来的100块金币。”</p>
+</blockquote>
+<h4 id="用户肖像"><a href="#用户肖像" class="headerlink" title="用户肖像"></a>用户肖像</h4><p>题目中的用户肖像很简单，用户群是：一群超级聪明、弑杀、求生欲很强、民主的海盗，愿意遵从共同决定的分配规则。</p>
+<h4 id="用户需求"><a href="#用户需求" class="headerlink" title="用户需求"></a>用户需求</h4><p>看看通过这句，能够挖掘出哪些隐藏需求，看看自己是否完全理解了这个小群体。根据用户肖像，总结关键点如下：</p>
+<ul>
+<li><strong>超级聪明</strong>：  每一个海盗都会像你我一样，能穷尽出所有的分配方案。即每一个海盗“通过”或“拒绝”的表决，都会被其他人掌握。</li>
+<li><strong>求生欲很强</strong>：每一个海盗，在生还和金币的优先级上，都是生存重于金币。</li>
+<li><strong>杀人欲很强</strong>：每一个海盗，都想杀死其他所有人，哪怕自己被分配了全部金币，但也想杀掉所有人。</li>
+<li><strong>民主</strong>：每一个海盗都服从设定好的规则，即只要方案符合民主规则，他们就认同方案。<br>总结此用户群的需求点是：</li>
+</ul>
+<ol>
+<li>要获得更多的金币；</li>
+<li>有机会就一定要杀人；</li>
+<li>一定要活下来；且比获得金币优先级要高；（活下来才会有金币）</li>
+</ol>
+<p>以上是对海盗的初步分析，挖掘出来的他们的需求点。牢记 =.=</p>
+<h3 id="2、产品方案"><a href="#2、产品方案" class="headerlink" title="2、产品方案"></a>2、产品方案</h3><p>假设已经抽签完毕，按顺序将海盗标记为：A、B、C、D、E；</p>
+<p>现在对5个海盗进行依次分析，来找出抽到哪个顺序才是最优方案。通过假设，不断迭代分配方案：</p>
+<h4 id="尝试平均分配策略，进行策略的MVP"><a href="#尝试平均分配策略，进行策略的MVP" class="headerlink" title="尝试平均分配策略，进行策略的MVP"></a>尝试平均分配策略，进行策略的MVP</h4><p>假设对5个海盗平分100金币，每个人20金币。在此策略下，每一个弑杀的海盗在金币利益的驱使下，会认为分金币的人数越少越好。则出现：</p>
+<p><img src="https://ws3.sinaimg.cn/large/006tKfTcgy1fkpymso8q4j30me04ndgl.jpg" alt=""></p>
+<p>可以看出，最终E会获得最大收益，存活下来，并且获得100金币。但由于每一个海盗生存欲望极强，此分配策略没有考虑海盗的生存需求，则不满足实际情况。</p>
+<h3 id="3、实际用户场景的分析"><a href="#3、实际用户场景的分析" class="headerlink" title="3、实际用户场景的分析"></a>3、实际用户场景的分析</h3><h4 id="3-1-初步分析"><a href="#3-1-初步分析" class="headerlink" title="3.1 初步分析"></a>3.1 初步分析</h4><p>从第一个方案中，E是最大的收益者，且E仅需不断投No，即可以在最后存活和获得所有金币。</p>
+<p>对于D来说，在R4投Yes，已为时已晚。则需要调整自己的策略，在R3投Yes，则变成如下：</p>
+<p><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fkpyo8hvuvj318k096abr.jpg" alt=""></p>
+<p>【注：R1代表第一轮，R2代表第二轮，。。，R4代表第四轮；Yes代表支持，No代笔反对；空白代表被投死，即被喂鲨鱼。】</p>
+<p>此时C和D投Yes，超过了一半。则C可以进行分配 （C：D：E）=（100，0，0）</p>
+<p>看到这里，认为方案还没有达到最优的同学，逻辑还真是缜密。</p>
+<ul>
+<li>由于每一个海盗，都极度贪婪，对于D来说，C的分配方案虽然使自己活下来了，但是收益为0金币，一定不满足自己的需求，生存的前提下，一定还会调整自己的策略。</li>
+<li>由于每一个海盗，都是极其聪明，所以对B来说，知晓D和E一定对C的方案不满（0金币收益），则在R2中，在B只需分别给D和E一定量的金币就可以获得支持，加上自己投Yes，则可以存活。</li>
+</ul>
+<p>####3.2  B、D、E在R2投Yes</p>
+<p><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fkpyp22e0rj318c098q52.jpg" alt=""></p>
+<p>注：”(100)”代表被分配了100个金币；灰色字代表未发生的方案；</p>
+<p>此时产生了这个局面：</p>
+<ul>
+<li>B的方案中，D被分配1个金币，优于R3中C的方案。</li>
+<li>B的方案中，E被分配1个金币，优于R3中C的方案。</li>
+<li>B的方案中，C的收益为0，劣与R3的方案。<br><strong>关键信息</strong>：A极其聪明，知晓B在R2的方案后，可以通过利益分配，获得超过半数人的支持</li>
+</ul>
+<h4 id="3-3-A在R1的拉票"><a href="#3-3-A在R1的拉票" class="headerlink" title="3.3 A在R1的拉票"></a>3.3 A在R1的拉票</h4><p><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fkpypnw2z1j31840940v0.jpg" alt=""></p>
+<ul>
+<li>获得C的支持：给C分配1金币</li>
+<li>D或E获得一位的支持即可：给D或E分配2金币。（A是贪婪的，只想保证自己的利益分配最大化）<br>则此时，A的分配方案为：（A：B：C：D：E）=（97：0：1：2：0）或（97：0：1：0：2）；这无疑是1号能够获取最大收益的方案了！</li>
+</ul>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><ol>
+<li><p>此问题为博弈论的纳什均衡问题。纳什均衡的前提就是：“参与博弈的各方，互不通晓信息。”</p>
+</li>
+<li><p>策略产品方案设计过程中，一定会存在无从下手的情况，但可以通过产品方案在实际应用场景中进行迭代。</p>
+</li>
+<li><p>用户群之间如同这几个强盗，虽然《乌合之众》对群体的判断为无智商且冲动、易操控的“野蛮人”，不满足强盗极其聪明的条件。但是用户群都会希望获得利益分配最优。</p>
+</li>
+<li><p>产品方案，一定是根据用户肖像和用户需求来设计的。否则很容易在实际场景中产生误差</p>
+</li>
+<li><p>现实社会下设计产品，涉及到的用户群体越多，则利益分配越难以获得最优，总有一方利益牺牲，一方获得更大的利益。这些产品或者商业策略都是基于对整个产品以及商业方案的理解下产生的。同样看产品是以什么为导向，以用户为导向的产品，其利益分配策略便倾向用户，如微信。</p>
+</li>
+<li><p>用户群增长的一定程度，是需要不断细分才能不断获得增长点的，在不断细分用户群的过程中，就是不断创建新的纳什均衡的过程。</p>
+</li>
+<li><p>产品设计过程中，将运营与几个用户群放在一起考虑，这样便产生了上述的利益分配问题。所以PM首先要明确自己的产品需要的利益是什么（商业目标），如何通过运营去获得某一用户群的支持（运营策略）</p>
+</li>
+</ol>
+<hr>
+<p>分割线 :P</p>
+<hr>
+<p>附：利用纳什均衡的产品案例 - RTB广告定价策略</p>
+<p>在广告系统中，广告主（现将代理商和广告主统称为广告主）参与ADX（程序化交易）时，将会对媒体中的优质广告位进行实时竞价。</p>
+<p>利益群体为：</p>
+<ol>
+<li>广告主：最少的广告费，获得最大的广告收益</li>
+<li>媒体平台：获得最多的广告费</li>
+<li>客户端的用户：对广告价值有要求（不在竞价中参与博弈，此处仅做简介）</li>
+</ol>
+<h4 id="基础的广告竞价策略是："><a href="#基础的广告竞价策略是：" class="headerlink" title="基础的广告竞价策略是："></a>基础的广告竞价策略是：</h4><p>广告主A出价2元，广告主B出价1元。则广告主A获得广告位，收取A广告费2元。</p>
+<p>则在此时A为了减少广告支出，会一直调整出价，直至到1.01元时发现是刚刚好。</p>
+<p>广告主B对广告主C同样会进行此类行为，则以此类推，整个广告系统的竞价趋势，是向着最低广告支出方向演化。</p>
+<h4 id="采用纳什均衡策略的定价法："><a href="#采用纳什均衡策略的定价法：" class="headerlink" title="采用纳什均衡策略的定价法："></a>采用纳什均衡策略的定价法：</h4><p>广告主A出价2元，广告主B出价1元。广告主A获得广告位，收取A的广告费为B的出价，即1元。</p>
+<p>广告主A此时无动力去调低竞价。</p>
+<p>广告主C参与进来后，仅在C出价高于1元时，方能获得B竞拍的广告位。以此类推，整个广告系统的竞价趋势走高。</p>
+<h4 id="常用的广告竞价策略"><a href="#常用的广告竞价策略" class="headerlink" title="常用的广告竞价策略"></a>常用的广告竞价策略</h4><p>广义第二高阶：单广告位是赢得每一个广告位的广告主，都按照他下一位广告主的出价收取费用；多广告位的出价是赢得每一个广告位的广告<br>VCG定价：赢得广告位的广告主，出价成本为其他参与竞价者的价值损害；此策略可使得每一个广告主找到自己最优状态，同时媒体的收费会偏少<br>参考：刘鹏《计算广告》</p>
+
+  
+<div class="idf-widget" style="width:100%; text-align: center; background: #f1f1f1; padding: 10px 0 10px 0">
+    <a href="https://www.interaction-design.org/invite?r=yujie-meng&amp;utm_source=invitewidget&amp;utm_medium=widget&amp;utm_campaign=partners&amp;utm_content=yujie-meng" target="_blank">
+        <img style="height:90px; display:block; margin-left:auto; margin-right:auto; margin-bottom:20px;" src="/images/idf-logo-full.svg"></a>
+   
+     <p >HCI-GEEK is an <strong>Official Educational Partner</strong> of the Interaction Design Foundation, the world’s largest UX Design learning community.
+      </p>
+    <p> <strong>本站</strong>经用户体验设计学习社区IDF授权，是<strong>中国官方授权的唯一教育合伙渠道.</strong></p>
+    <p><a href="https://www.interaction-design.org/invite?r=yujie-meng&amp;utm_source=invitewidget&amp;utm_medium=widget&amp;utm_campaign=partners&amp;utm_content=yujie-meng" target="_blank" style="text-decoration:none; color: #009cde; font-weight: bold;"> 您可以通过本网站获得3个月的免费学习UX设计的会员</a>!</>
+</div>
+<div class="container" style="padding-bottom: 10px;">
+  </div>
+
+
+    <!-- Comments -->
+    <div class="container">
+      
+    </div>
+    <!-- Pre or Next -->
+    <div class="nav-links">
+      
+        <div class="nav-previous">
+          <a href="/2017/09/30/2017-09-30商业模式在产品周期中是如何体现/" rel="prev"><span class="meta-arraw meta-arraw-left"></span> 上一页</a>
+        </div>
+      
+      
+        <div class="nav-next">
+          <a href="/2017/09/15/2017-09-15/" rel="prev">下一页 <span class="meta-arraw meta-arraw-right"></span></a>
+        </div>
+      
+    </div>
+
+  </div>
+</div>
+
+
+  <!-- Footer -->
+  <!-- Footer-widgets -->
+<div class="footer-widgets">
+  <div class="row inside-wrapper">
+    <div class="col-1-3">
+      <aside>
+        <h1 class="widget-title">关于本站</h1>
+        <div class="custom-widget-content">
+          
+          <ul><span>Hi！欢迎来到HCI-Geek，这有商业、产品、交互、用研、技术等内容，Enjoy！欢迎与我取得联系。</span></ul>
+        </div>
+      </aside>
+    </div>
+    <div class="col-1-3">
+      <aside>
+        <h1 class="widget-title">与我联系</h1>
+        <div class="widget-text">
+          
+            
+              <a href="https://cn.linkedin.com/in/yujiemeng" class="icon icon-linkedin" target="_blank">linkedin</a>
+            
+              <a href="mailto:yujie.meng@hotmail.com" class="icon icon-mail" target="_blank">mail</a>
+            
+              <a href="http://weibo.com/p/1005055717185310" class="icon icon-weibo" target="_blank">weibo</a>
+            
+              <a href="https://twitter.com/MylesMeng" class="icon icon-twitter" target="_blank">twitter</a>
+            
+          
+        </div>
+      </aside>
+    </div>
+    <div class="col-1-3">
+      <aside>
+        <h1 class="widget-title">站内搜索</h1>
+        <div class="widget-text">
+          <form onSubmit="return appDaily.submitSearch('')">
+            <p>
+              <input type="text" placeholder="搜索..." id="homeSearchInput">
+            </p>
+            <input type="submit" value="GO">
+          </form>
+        </div>
+      </aside>
+    </div>
+  </div>
+</div>
+<!-- Footer -->
+<footer class="site-info">
+      <p>
+    <span>HCI极客:人机交互学习社区 &copy; 2017</span>
+    
+      <span class="split">|</span><span>Powered by <a href="https://hexo.io/" target="_blank">Hexo</a> with Theme <a href="https://github.com/GallenHu/hexo-theme-Daily" target="_blank">Daily</a></span>
+      
+    
+  </p>
+
+</footer>
+
+
+  <!-- After footer scripts -->
+  <!-- scripts -->
+<script src="//cdn.bootcss.com/zepto/1.2.0/zepto.min.js"></script>
+<script src="/js/app.js"></script>
+
+
+
+</body>
+
+</html>
